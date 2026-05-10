@@ -1,13 +1,14 @@
 # Felix Crypto Edge Website
 
-A fast-launch landing page for a beginner crypto education business.
+A fast-launch landing page for a beginner crypto tools subscription business.
 
 ## Product
 
 **Felix Crypto Edge** combines:
 
-- A beginner-friendly PDF guide on crypto chart reading and risk management
-- An educational chart analysis tool that highlights possible trend direction, support/resistance, and possible buy/sell zones
+- A TradingView Pine Script indicator for subscribers
+- A web dashboard for subscribers
+- A Telegram alert bot for paid subscribers
 
 Important positioning: educational only, not financial advice, no profit guarantees.
 
@@ -30,7 +31,8 @@ Important positioning: educational only, not financial advice, no profit guarant
 
 ## Before public launch
 
-- Build first PDF guide.
-- Build first simple chart tool MVP.
+- Build first TradingView indicator.
+- Build first web dashboard MVP.
+- Build Telegram alert bot after payment/access architecture is approved.
 - Connect payment only after Hans approves financial setup.
 - Keep disclaimers visible: education only, trading is risky.

@@ -1,0 +1,88 @@
+//@version=5
+indicator("Felix Crypto Edge - Beginner Setup Zones", overlay=true, max_labels_count=100, max_lines_count=100)
+
+// Felix Crypto Edge
+// Educational chart assistant. Not financial advice. No profit guarantees.
+// Purpose: highlight possible watch zones based on trend, moving averages, RSI, and recent support/resistance.
+
+// -------------------- Inputs --------------------
+fastLen = input.int(20, "Fast MA", minval=1)
+slowLen = input.int(50, "Slow MA", minval=1)
+rsiLen = input.int(14, "RSI Length", minval=1)
+srLookback = input.int(80, "Support/Resistance Lookback", minval=20)
+riskAtrLen = input.int(14, "ATR Risk Length", minval=1)
+showLabels = input.bool(true, "Show educational labels")
+showZones = input.bool(true, "Show support/resistance zones")
+
+// -------------------- Core calculations --------------------
+fastMA = ta.ema(close, fastLen)
+slowMA = ta.ema(close, slowLen)
+rsi = ta.rsi(close, rsiLen)
+atr = ta.atr(riskAtrLen)
+
+support = ta.lowest(low, srLookback)
+resistance = ta.highest(high, srLookback)
+midRange = (support + resistance) / 2.0
+rangeSize = math.max(resistance - support, syminfo.mintick)
+nearSupport = close <= support + rangeSize * 0.22
+nearResistance = close >= resistance - rangeSize * 0.22
+
+trendBull = fastMA > slowMA and close > slowMA
+trendBear = fastMA < slowMA and close < slowMA
+momentumOkForLong = rsi > 38 and rsi < 68
+momentumHot = rsi >= 68
+momentumWeak = rsi <= 38
+
+possibleBuyWatch = trendBull and nearSupport and momentumOkForLong
+possibleSellWatch = nearResistance and (momentumHot or trendBear)
+
+// Suggested educational risk reference, not instruction.
+longInvalidation = support - atr * 0.35
+shortInvalidation = resistance + atr * 0.35
+
+// -------------------- Plots --------------------
+plot(fastMA, "Fast EMA", color=color.new(color.red, 0), linewidth=2)
+plot(slowMA, "Slow EMA", color=color.new(color.white, 0), linewidth=2)
+
+supportPlot = plot(showZones ? support : na, "Support Zone", color=color.new(color.lime, 0), linewidth=2, style=plot.style_linebr)
+resistancePlot = plot(showZones ? resistance : na, "Resistance Zone", color=color.new(color.red, 0), linewidth=2, style=plot.style_linebr)
+plot(showZones ? midRange : na, "Range Midpoint", color=color.new(color.gray, 65), linewidth=1)
+
+bgcolor(possibleBuyWatch ? color.new(color.lime, 86) : na, title="Possible Buy Watch Background")
+bgcolor(possibleSellWatch ? color.new(color.red, 86) : na, title="Possible Sell Watch Background")
+
+plotshape(possibleBuyWatch, title="Possible Buy Watch", style=shape.triangleup, location=location.belowbar, color=color.new(color.lime, 0), size=size.small, text="WATCH")
+plotshape(possibleSellWatch, title="Possible Sell / Take Profit Watch", style=shape.triangledown, location=location.abovebar, color=color.new(color.red, 0), size=size.small, text="WATCH")
+
+// -------------------- Labels --------------------
+if showLabels and possibleBuyWatch and barstate.isconfirmed
+    label.new(bar_index, low, "Felix watch zone\nPossible long setup area\nTrend: bullish\nRSI: " + str.tostring(rsi, "#.0") + "\nInvalidation ref: " + str.tostring(longInvalidation, format.mintick) + "\nEducation only", style=label.style_label_up, textcolor=color.white, color=color.new(color.green, 10))
+
+if showLabels and possibleSellWatch and barstate.isconfirmed
+    label.new(bar_index, high, "Felix watch zone\nPossible sell / take-profit area\nRSI: " + str.tostring(rsi, "#.0") + "\nRisk ref: " + str.tostring(shortInvalidation, format.mintick) + "\nEducation only", style=label.style_label_down, textcolor=color.white, color=color.new(color.red, 10))
+
+// -------------------- Alert conditions --------------------
+alertcondition(possibleBuyWatch and barstate.isconfirmed, title="Felix Possible Buy Watch", message="Felix Crypto Edge: {{ticker}} possible BUY WATCH zone on {{interval}}. Trend bullish, near support. Educational alert only, not financial advice.")
+alertcondition(possibleSellWatch and barstate.isconfirmed, title="Felix Possible Sell Watch", message="Felix Crypto Edge: {{ticker}} possible SELL/TAKE-PROFIT WATCH zone on {{interval}}. Near resistance or momentum hot. Educational alert only, not financial advice.")
+
+// Webhook JSON templates for TradingView alerts:
+// Buy/watch:
+// {"secret":"YOUR_USER_SECRET","symbol":"{{ticker}}","interval":"{{interval}}","type":"buy_watch","price":"{{close}}","message":"Felix possible buy watch zone. Educational only."}
+// Sell/watch:
+// {"secret":"YOUR_USER_SECRET","symbol":"{{ticker}}","interval":"{{interval}}","type":"sell_watch","price":"{{close}}","message":"Felix possible sell/take-profit watch zone. Educational only."}
+
+// -------------------- On-chart status table --------------------
+var table status = table.new(position.top_right, 2, 6, border_width=1)
+if barstate.islast
+    table.cell(status, 0, 0, "Felix Edge", text_color=color.white, bgcolor=color.new(color.red, 0))
+    table.cell(status, 1, 0, "Education only", text_color=color.white, bgcolor=color.new(color.red, 0))
+    table.cell(status, 0, 1, "Trend", text_color=color.white, bgcolor=color.new(color.black, 0))
+    table.cell(status, 1, 1, trendBull ? "Bullish" : trendBear ? "Bearish" : "Mixed", text_color=color.white, bgcolor=trendBull ? color.new(color.green, 35) : trendBear ? color.new(color.red, 35) : color.new(color.gray, 35))
+    table.cell(status, 0, 2, "RSI", text_color=color.white, bgcolor=color.new(color.black, 0))
+    table.cell(status, 1, 2, str.tostring(rsi, "#.0"), text_color=color.white, bgcolor=momentumHot ? color.new(color.red, 35) : momentumWeak ? color.new(color.orange, 35) : color.new(color.green, 45))
+    table.cell(status, 0, 3, "Support", text_color=color.white, bgcolor=color.new(color.black, 0))
+    table.cell(status, 1, 3, str.tostring(support, format.mintick), text_color=color.white, bgcolor=color.new(color.black, 0))
+    table.cell(status, 0, 4, "Resistance", text_color=color.white, bgcolor=color.new(color.black, 0))
+    table.cell(status, 1, 4, str.tostring(resistance, format.mintick), text_color=color.white, bgcolor=color.new(color.black, 0))
+    table.cell(status, 0, 5, "Signal", text_color=color.white, bgcolor=color.new(color.black, 0))
+    table.cell(status, 1, 5, possibleBuyWatch ? "BUY WATCH" : possibleSellWatch ? "SELL WATCH" : "WAIT", text_color=color.white, bgcolor=possibleBuyWatch ? color.new(color.green, 15) : possibleSellWatch ? color.new(color.red, 15) : color.new(color.gray, 50))

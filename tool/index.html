@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Felix Crypto Edge Tool MVP</title>
+  <meta name="description" content="A beginner-friendly educational crypto chart demo showing moving averages, RSI-style momentum, support and resistance, and possible watch zones." />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="app-header">
+    <a class="brand" href="../index.html" aria-label="Felix Crypto Edge home">
+      <span class="brand-mark">₿</span>
+      <span>Felix Crypto Edge</span>
+    </a>
+    <div class="header-actions">
+      <span class="pill">Static demo MVP</span>
+      <a class="ghost-link" href="../index.html">Back to site</a>
+    </div>
+  </header>
+
+  <main class="shell">
+    <section class="hero-panel">
+      <div>
+        <p class="eyebrow">Beginner crypto chart tool</p>
+        <h1>Understand the chart before you risk real money.</h1>
+        <p class="lede">Pick a demo asset to see trend, moving average, RSI-style momentum, support/resistance zones, and educational watch labels in plain English.</p>
+      </div>
+      <div class="risk-card" role="note" aria-label="Important disclaimer">
+        <strong>Education only — not financial advice.</strong>
+        <span>This static MVP uses sample data. Labels are learning prompts, not buy/sell instructions or profit guarantees.</span>
+      </div>
+    </section>
+
+    <section class="tool-grid" aria-label="Crypto chart analysis demo">
+      <aside class="control-card">
+        <label for="assetSelect">Choose demo market</label>
+        <select id="assetSelect" aria-label="Select demo crypto asset">
+          <option value="BTC">BTC/USDT</option>
+          <option value="ETH">ETH/USDT</option>
+          <option value="SOL">SOL/USDT</option>
+        </select>
+
+        <div class="metric-stack" aria-live="polite">
+          <div class="metric"><span>Last demo price</span><strong id="lastPrice">—</strong></div>
+          <div class="metric"><span>Trend read</span><strong id="trendRead">—</strong></div>
+          <div class="metric"><span>RSI-style momentum</span><strong id="rsiRead">—</strong></div>
+          <div class="metric"><span>Support zone</span><strong id="supportRead">—</strong></div>
+          <div class="metric"><span>Resistance zone</span><strong id="resistanceRead">—</strong></div>
+        </div>
+
+        <div class="legend" aria-label="Chart legend">
+          <span><i class="swatch price"></i>Price</span>
+          <span><i class="swatch ma"></i>Moving average</span>
+          <span><i class="swatch support"></i>Support / watch</span>
+          <span><i class="swatch resistance"></i>Resistance / take profit</span>
+        </div>
+      </aside>
+
+      <section class="chart-card">
+        <div class="chart-head">
+          <div>
+            <p class="eyebrow">Educational scan</p>
+            <h2 id="assetTitle">BTC/USDT</h2>
+          </div>
+          <span id="scenarioBadge" class="badge">Beginner trend map</span>
+        </div>
+
+        <div class="chart-wrap">
+          <svg id="chart" viewBox="0 0 920 430" role="img" aria-labelledby="chartTitle chartDesc" preserveAspectRatio="none">
+            <title id="chartTitle">Crypto price chart demo</title>
+            <desc id="chartDesc">Line chart with demo price, moving average, support and resistance zones.</desc>
+          </svg>
+        </div>
+
+        <div class="signal-row">
+          <article class="signal buy">
+            <span>Possible buy/watch zone</span>
+            <strong id="buyLabel">—</strong>
+            <p>Beginner idea: wait for confirmation near support instead of chasing green candles.</p>
+          </article>
+          <article class="signal sell">
+            <span>Possible sell/take-profit zone</span>
+            <strong id="sellLabel">—</strong>
+            <p>Beginner idea: plan exits before entry; resistance is where price can stall.</p>
+          </article>
+        </div>
+      </section>
+    </section>
+
+    <section class="explainers">
+      <article>
+        <h3>Moving average</h3>
+        <p>A smoothed line that helps beginners see whether price is generally trending up, down, or sideways.</p>
+      </article>
+      <article>
+        <h3>RSI-style momentum</h3>
+        <p>A simple 0–100 momentum estimate. High can mean overheated; low can mean weak or potentially oversold.</p>
+      </article>
+      <article>
+        <h3>Support & resistance</h3>
+        <p>Zones where price previously reacted. They are areas to watch, not magic levels.</p>
+      </article>
+    </section>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>

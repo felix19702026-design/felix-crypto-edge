@@ -7,461 +7,1093 @@ endobj
 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
 endobj
 3 0 obj
-<< /Length 1618 >>
+<< /Length 1848 >>
 stream
 0.04 0.035 0.035 rg 0.0 0.0 595.0 842.0 re f
-0.86 0.1 0.1 rg 0.0 0.0 595.0 18.0 re f
-0.1 0.02 0.025 rg 42.0 118.0 511.0 520.0 re f
-0.55 0.05 0.06 RG 2 w 42.0 118.0 511.0 520.0 re S
-1 1 1 rg BT /F2 34 Tf 62.0 590.0 Td (FELIX CRYPTO EDGE) Tj ET
-1 0.78 0.78 rg BT /F2 26 Tf 62.0 552.0 Td (Trading for Beginners) Tj ET
-1 1 1 rg BT /F1 15 Tf 62.0 505.0 Td (A simple visual guide for learning crypto) Tj ET
-1 1 1 rg BT /F1 15 Tf 62.0 484.0 Td (charts, spotting possible buy/sell zones, and) Tj ET
-1 1 1 rg BT /F1 15 Tf 62.0 463.0 Td (avoiding the biggest beginner mistakes.) Tj ET
-0.03 0.03 0.03 rg 78.0 230.0 440.0 190.0 re f
-0.9 0.1 0.1 RG 1 w 78.0 230.0 440.0 190.0 re S
-0.18 0.08 0.08 RG 0.5 w 78.0 260.0 m 518.0 260.0 l S
-0.18 0.08 0.08 RG 0.5 w 78.0 290.0 m 518.0 290.0 l S
-0.18 0.08 0.08 RG 0.5 w 78.0 320.0 m 518.0 320.0 l S
-0.18 0.08 0.08 RG 0.5 w 78.0 350.0 m 518.0 350.0 l S
-0.18 0.08 0.08 RG 0.5 w 78.0 380.0 m 518.0 380.0 l S
-1 0.18 0.18 RG 4 w 90.0 260.0 m 140.0 300.0 l S
-1 0.18 0.18 RG 4 w 140.0 300.0 m 185.0 285.0 l S
-1 0.18 0.18 RG 4 w 185.0 285.0 m 230.0 345.0 l S
-1 0.18 0.18 RG 4 w 230.0 345.0 m 275.0 325.0 l S
-1 0.18 0.18 RG 4 w 275.0 325.0 m 325.0 380.0 l S
-1 0.18 0.18 RG 4 w 325.0 380.0 m 370.0 355.0 l S
-1 0.18 0.18 RG 4 w 370.0 355.0 m 430.0 395.0 l S
-1 0.18 0.18 RG 4 w 430.0 395.0 m 500.0 370.0 l S
-0.35 0.02 0.02 rg 90.0 244.0 410.0 34.0 re f
-0.85 0.1 0.1 RG 1 w 90.0 244.0 410.0 34.0 re S
-1 0.82 0.82 rg BT /F2 10 Tf 100.0 255.0 Td (POSSIBLE BUY ZONE) Tj ET
-1 0.78 0.78 rg BT /F1 9 Tf 62.0 76.0 Td (Education only. Not financial advice. Crypto trading is risky and you can lose money.) Tj ET
+0.86 0.08 0.08 rg 0.0 0.0 595.0 18.0 re f
+0.1 0.02 0.025 rg 42.0 116.0 511.0 540.0 re f
+0.55 0.05 0.06 RG 2 w 42.0 116.0 511.0 540.0 re S
+1 1 1 rg BT /F2 34 Tf 62.0 600.0 Td (FELIX CRYPTO EDGE) Tj ET
+1 0.78 0.78 rg BT /F2 27 Tf 62.0 560.0 Td (Trading for Dummies) Tj ET
+1 1 1 rg BT /F1 15 Tf 62.0 515.0 Td (A simple visual beginner guide for reading crypto) Tj ET
+1 1 1 rg BT /F1 15 Tf 62.0 494.0 Td (charts, planning trades, avoiding FOMO, and) Tj ET
+1 1 1 rg BT /F1 15 Tf 62.0 473.0 Td (understanding risk.) Tj ET
+0.035 0.03 0.03 rg 78.0 240.0 440.0 185.0 re f
+0.75 0.12 0.12 RG 1 w 78.0 240.0 440.0 185.0 re S
+0.16 0.08 0.08 RG 0.45 w 78.0 277.0 m 518.0 277.0 l S
+0.16 0.08 0.08 RG 0.45 w 78.0 314.0 m 518.0 314.0 l S
+0.16 0.08 0.08 RG 0.45 w 78.0 351.0 m 518.0 351.0 l S
+0.16 0.08 0.08 RG 0.45 w 78.0 388.0 m 518.0 388.0 l S
+0.38 0.02 0.02 rg 94.0 365.8 408.0 28.0 re f
+0.95 0.13 0.13 RG 0.7 w 94.0 365.8 408.0 28.0 re S
+0.04 0.25 0.1 rg 94.0 273.3 408.0 28.0 re f
+0.15 0.75 0.32 RG 0.7 w 94.0 273.3 408.0 28.0 re S
+0.86 0.08 0.08 RG 3 w 91.2 267.8 m 139.6 304.8 l S
+0.86 0.08 0.08 RG 3 w 139.6 304.8 m 188.0 286.2 l S
+0.86 0.08 0.08 RG 3 w 188.0 286.2 m 236.4 347.3 l S
+0.86 0.08 0.08 RG 3 w 236.4 347.3 m 289.2 326.9 l S
+0.86 0.08 0.08 RG 3 w 289.2 326.9 m 342.0 384.3 l S
+0.86 0.08 0.08 RG 3 w 342.0 384.3 m 394.8 352.9 l S
+0.86 0.08 0.08 RG 3 w 394.8 352.9 m 452.0 395.4 l S
+0.86 0.08 0.08 RG 3 w 452.0 395.4 m 500.4 369.5 l S
+1 0.84 0.84 rg BT /F2 10 Tf 94.0 377.0 Td (RESISTANCE / TAKE-PROFIT WATCH AREA) Tj ET
+0.86 1 0.88 rg BT /F2 10 Tf 94.0 285.0 Td (SUPPORT / BUY WATCH AREA) Tj ET
+1 0.78 0.78 rg BT /F2 10 Tf 62.0 83.0 Td (Version 0.2 visual draft) Tj ET
+1 0.78 0.78 rg BT /F1 9 Tf 62.0 64.0 Td (Education only. Not financial advice. Crypto trading is risky and you can lose money.) Tj ET
 endstream
 endobj
 4 0 obj
-<< /Type /Page /Parent 21 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 3 0 R >>
+<< /Type /Page /Parent 45 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 3 0 R >>
 endobj
 5 0 obj
-<< /Length 2303 >>
+<< /Length 2624 >>
 stream
 1 1 1 rg 0.0 0.0 595.0 842.0 re f
-0.86 0.1 0.1 rg 0.0 826.0 595.0 16.0 re f
-0.04 0.035 0.035 rg BT /F2 24 Tf 42.0 784.0 Td (1. Candles: The Basic Building Block) Tj ET
-0.42 0.32 0.32 rg BT /F1 10 Tf 42.0 760.0 Td (A candle is just a picture of what price did during one period of time.) Tj ET
-0.86 0.1 0.1 RG 1.2 w 42.0 746.0 m 553.0 746.0 l S
-0.05 0.58 0.26 RG 3 w 150.0 300.0 m 150.0 560.0 l S
-0.05 0.58 0.26 rg 122.0 380.0 56.0 110.0 re f
-0.05 0.58 0.26 RG 1 w 122.0 380.0 56.0 110.0 re S
-0.05 0.58 0.26 rg BT /F2 12 Tf 80.0 540.0 Td (High) Tj ET
-0.05 0.58 0.26 RG 1 w 116.0 544.0 m 150.0 560.0 l S
-0.05 0.58 0.26 rg BT /F2 12 Tf 70.0 460.0 Td (Close) Tj ET
-0.05 0.58 0.26 RG 1 w 116.0 464.0 m 122.0 490.0 l S
-0.05 0.58 0.26 rg BT /F2 12 Tf 72.0 365.0 Td (Open) Tj ET
-0.05 0.58 0.26 RG 1 w 116.0 369.0 m 122.0 380.0 l S
-0.05 0.58 0.26 rg BT /F2 12 Tf 84.0 295.0 Td (Low) Tj ET
-0.05 0.58 0.26 RG 1 w 116.0 299.0 m 150.0 300.0 l S
-0.09 0.06 0.06 rg BT /F2 11 Tf 116.0 250.0 Td (Green candle: price closed higher than it opened.) Tj ET
-0.86 0.1 0.1 RG 3 w 410.0 300.0 m 410.0 560.0 l S
-0.86 0.1 0.1 rg 382.0 380.0 56.0 110.0 re f
-0.86 0.1 0.1 RG 1 w 382.0 380.0 56.0 110.0 re S
-0.86 0.1 0.1 rg BT /F2 12 Tf 333.0 540.0 Td (High) Tj ET
-0.86 0.1 0.1 RG 1 w 370.0 544.0 m 410.0 560.0 l S
-0.86 0.1 0.1 rg BT /F2 12 Tf 326.0 460.0 Td (Open) Tj ET
-0.86 0.1 0.1 RG 1 w 370.0 464.0 m 382.0 490.0 l S
-0.86 0.1 0.1 rg BT /F2 12 Tf 325.0 365.0 Td (Close) Tj ET
-0.86 0.1 0.1 RG 1 w 370.0 369.0 m 382.0 380.0 l S
-0.86 0.1 0.1 rg BT /F2 12 Tf 338.0 295.0 Td (Low) Tj ET
-0.86 0.1 0.1 RG 1 w 370.0 299.0 m 410.0 300.0 l S
-0.09 0.06 0.06 rg BT /F2 11 Tf 365.0 250.0 Td (Red candle: price closed lower than it opened.) Tj ET
-1.0 0.94 0.94 rg 56.0 108.0 483.0 92.0 re f
-0.92 0.32 0.32 RG 1 w 56.0 108.0 483.0 92.0 re S
-0.86 0.1 0.1 rg 93.0 170.0 m 93.0 177.7 86.7 184.0 79.0 184.0 c 71.3 184.0 65.0 177.7 65.0 170.0 c 65.0 162.3 71.3 156.0 79.0 156.0 c 86.7 156.0 93.0 162.3 93.0 170.0 c f
-1 1 1 rg BT /F2 14 Tf 71.0 164.0 Td (!) Tj ET
-0.32 0.02 0.03 rg BT /F2 13 Tf 104.0 172.0 Td (Dummy rule) Tj ET
-0.09 0.06 0.06 rg BT /F1 9.5 Tf 70.0 148.0 Td (Do not trade from one candle alone. A candle matters most when it appears) Tj ET
-0.09 0.06 0.06 rg BT /F1 9.5 Tf 70.0 135.0 Td (at support, resistance, or a trendline.) Tj ET
+0.86 0.08 0.08 rg 0.0 826.0 595.0 16.0 re f
+0.04 0.035 0.035 rg BT /F2 23 Tf 42.0 784.0 Td (Read This First: Risk Disclaimer) Tj ET
+0.42 0.32 0.32 rg BT /F1 10 Tf 42.0 760.0 Td (This product teaches chart-reading structure. It does not tell you what to buy) Tj ET
+0.42 0.32 0.32 rg BT /F1 10 Tf 42.0 746.0 Td (or promise results.) Tj ET
+0.86 0.08 0.08 RG 1.2 w 42.0 744.0 m 553.0 744.0 l S
+1.0 0.94 0.94 rg 58.0 545.0 480.0 105.0 re f
+0.92 0.32 0.32 RG 1 w 58.0 545.0 480.0 105.0 re S
+0.86 0.08 0.08 rg 93.0 621.0 m 93.0 628.2 87.2 634.0 80.0 634.0 c 72.8 634.0 67.0 628.2 67.0 621.0 c 67.0 613.8 72.8 608.0 80.0 608.0 c 87.2 608.0 93.0 613.8 93.0 621.0 c f
+1 1 1 rg BT /F2 9.5 Tf 76.0 616.0 Td (!) Tj ET
+0.35 0.02 0.03 rg BT /F2 12.5 Tf 103.0 622.0 Td (Education only) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 72.0 600.0 Td (This guide is not financial advice, investment advice, trading advice, tax) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 72.0 587.5 Td (advice, or a guarantee of profit. Examples are fictional and simplified.) Tj ET
+1.0 0.94 0.94 rg 58.0 410.0 480.0 105.0 re f
+0.92 0.32 0.32 RG 1 w 58.0 410.0 480.0 105.0 re S
+0.86 0.08 0.08 rg 93.0 486.0 m 93.0 493.2 87.2 499.0 80.0 499.0 c 72.8 499.0 67.0 493.2 67.0 486.0 c 67.0 478.8 72.8 473.0 80.0 473.0 c 87.2 473.0 93.0 478.8 93.0 486.0 c f
+1 1 1 rg BT /F2 9.5 Tf 76.0 481.0 Td (!) Tj ET
+0.35 0.02 0.03 rg BT /F2 12.5 Tf 103.0 487.0 Td (Crypto is risky) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 72.0 465.0 Td (Prices can move quickly, exchanges can fail, liquidity can disappear, and you) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 72.0 452.5 Td (can lose some or all money you trade.) Tj ET
+1.0 0.94 0.94 rg 58.0 275.0 480.0 105.0 re f
+0.92 0.32 0.32 RG 1 w 58.0 275.0 480.0 105.0 re S
+0.86 0.08 0.08 rg 93.0 351.0 m 93.0 358.2 87.2 364.0 80.0 364.0 c 72.8 364.0 67.0 358.2 67.0 351.0 c 67.0 343.8 72.8 338.0 80.0 338.0 c 87.2 338.0 93.0 343.8 93.0 351.0 c f
+1 1 1 rg BT /F2 9.5 Tf 76.0 346.0 Td (!) Tj ET
+0.35 0.02 0.03 rg BT /F2 12.5 Tf 103.0 352.0 Td (The tool is not a crystal ball) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 72.0 330.0 Td (Felix Crypto Edge can help you organize a process. It cannot predict the future) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 72.0 317.5 Td (and cannot remove risk.) Tj ET
+0.35 0.02 0.03 rg BT /F2 14 Tf 70.0 180.0 Td (Beginner promise: before you place any real trade, know where) Tj ET
+0.35 0.02 0.03 rg BT /F2 14 Tf 70.0 160.0 Td (you are wrong, how much you can lose, and why the setup makes) Tj ET
+0.35 0.02 0.03 rg BT /F2 14 Tf 70.0 140.0 Td (sense. If you cannot answer those points, skip it.) Tj ET
 endstream
 endobj
 6 0 obj
-<< /Type /Page /Parent 21 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 5 0 R >>
+<< /Type /Page /Parent 45 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 5 0 R >>
 endobj
 7 0 obj
-<< /Length 2717 >>
+<< /Length 5150 >>
 stream
 1 1 1 rg 0.0 0.0 595.0 842.0 re f
-0.86 0.1 0.1 rg 0.0 826.0 595.0 16.0 re f
-0.04 0.035 0.035 rg BT /F2 24 Tf 42.0 784.0 Td (2. Support and Resistance) Tj ET
-0.42 0.32 0.32 rg BT /F1 10 Tf 42.0 760.0 Td (Support is where buyers may step in. Resistance is where sellers may step in.) Tj ET
-0.42 0.32 0.32 rg BT /F1 10 Tf 42.0 746.0 Td (Think zones, not perfect lines.) Tj ET
-0.86 0.1 0.1 RG 1.2 w 42.0 746.0 m 553.0 746.0 l S
-0.03 0.03 0.03 rg 65.0 255.0 465.0 330.0 re f
-0.75 0.12 0.12 RG 1 w 65.0 255.0 465.0 330.0 re S
-0.16 0.08 0.08 RG 0.5 w 65.0 310.0 m 530.0 310.0 l S
-0.16 0.08 0.08 RG 0.5 w 65.0 365.0 m 530.0 365.0 l S
-0.16 0.08 0.08 RG 0.5 w 65.0 420.0 m 530.0 420.0 l S
-0.16 0.08 0.08 RG 0.5 w 65.0 475.0 m 530.0 475.0 l S
-0.16 0.08 0.08 RG 0.5 w 65.0 530.0 m 530.0 530.0 l S
-0.4 0.02 0.02 rg 85.0 485.0 420.0 48.0 re f
-0.95 0.15 0.15 RG 1 w 85.0 485.0 420.0 48.0 re S
-1 0.85 0.85 rg BT /F2 11 Tf 96.0 503.0 Td (RESISTANCE ZONE: price struggled here before) Tj ET
-0.08 0.32 0.13 rg 85.0 295.0 420.0 48.0 re f
-0.12 0.7 0.32 RG 1 w 85.0 295.0 420.0 48.0 re S
-0.86 1 0.88 rg BT /F2 11 Tf 96.0 313.0 Td (SUPPORT ZONE: price bounced here before) Tj ET
-1 0.2 0.2 RG 4 w 90.0 330.0 m 140.0 390.0 l S
-1 0.2 0.2 RG 4 w 140.0 390.0 m 190.0 350.0 l S
-1 0.2 0.2 RG 4 w 190.0 350.0 m 245.0 470.0 l S
-1 0.2 0.2 RG 4 w 245.0 470.0 m 300.0 435.0 l S
-1 0.2 0.2 RG 4 w 300.0 435.0 m 355.0 505.0 l S
-1 0.2 0.2 RG 4 w 355.0 505.0 m 410.0 455.0 l S
-1 0.2 0.2 RG 4 w 410.0 455.0 m 485.0 520.0 l S
-1.0 0.94 0.94 rg 56.0 120.0 230.0 88.0 re f
-0.92 0.32 0.32 RG 1 w 56.0 120.0 230.0 88.0 re S
-0.86 0.1 0.1 rg 93.0 178.0 m 93.0 185.7 86.7 192.0 79.0 192.0 c 71.3 192.0 65.0 185.7 65.0 178.0 c 65.0 170.3 71.3 164.0 79.0 164.0 c 86.7 164.0 93.0 170.3 93.0 178.0 c f
-1 1 1 rg BT /F2 14 Tf 71.0 172.0 Td (S) Tj ET
-0.32 0.02 0.03 rg BT /F2 13 Tf 104.0 180.0 Td (Support) Tj ET
-0.09 0.06 0.06 rg BT /F1 9.5 Tf 70.0 156.0 Td (A possible area to look for) Tj ET
-0.09 0.06 0.06 rg BT /F1 9.5 Tf 70.0 143.0 Td (buyers. It can break, so risk) Tj ET
-0.09 0.06 0.06 rg BT /F1 9.5 Tf 70.0 130.0 Td (still matters.) Tj ET
-1.0 0.94 0.94 rg 310.0 120.0 230.0 88.0 re f
-0.92 0.32 0.32 RG 1 w 310.0 120.0 230.0 88.0 re S
-0.86 0.1 0.1 rg 347.0 178.0 m 347.0 185.7 340.7 192.0 333.0 192.0 c 325.3 192.0 319.0 185.7 319.0 178.0 c 319.0 170.3 325.3 164.0 333.0 164.0 c 340.7 164.0 347.0 170.3 347.0 178.0 c f
-1 1 1 rg BT /F2 14 Tf 325.0 172.0 Td (R) Tj ET
-0.32 0.02 0.03 rg BT /F2 13 Tf 358.0 180.0 Td (Resistance) Tj ET
-0.09 0.06 0.06 rg BT /F1 9.5 Tf 324.0 156.0 Td (A possible area to take profit,) Tj ET
-0.09 0.06 0.06 rg BT /F1 9.5 Tf 324.0 143.0 Td (avoid chasing, or watch for) Tj ET
-0.09 0.06 0.06 rg BT /F1 9.5 Tf 324.0 130.0 Td (rejection.) Tj ET
+0.86 0.08 0.08 rg 0.0 826.0 595.0 16.0 re f
+0.04 0.035 0.035 rg BT /F2 23 Tf 42.0 784.0 Td (What You Will Learn) Tj ET
+0.42 0.32 0.32 rg BT /F1 10 Tf 42.0 760.0 Td (A plain-English path from chart basics to a repeatable practice routine.) Tj ET
+0.86 0.08 0.08 RG 1.2 w 42.0 744.0 m 553.0 744.0 l S
+0.86 0.08 0.08 rg 72.0 641.0 m 72.0 646.5 67.5 651.0 62.0 651.0 c 56.5 651.0 52.0 646.5 52.0 641.0 c 52.0 635.5 56.5 631.0 62.0 631.0 c 67.5 631.0 72.0 635.5 72.0 641.0 c f
+1 1 1 rg BT /F2 8 Tf 58.0 637.0 Td (1) Tj ET
+0.09 0.06 0.06 rg BT /F2 11.5 Tf 86.0 646.0 Td (What crypto trading really is) Tj ET
+0.86 0.08 0.08 rg 72.0 580.0 m 72.0 585.5 67.5 590.0 62.0 590.0 c 56.5 590.0 52.0 585.5 52.0 580.0 c 52.0 574.5 56.5 570.0 62.0 570.0 c 67.5 570.0 72.0 574.5 72.0 580.0 c f
+1 1 1 rg BT /F2 8 Tf 58.0 576.0 Td (2) Tj ET
+0.09 0.06 0.06 rg BT /F2 11.5 Tf 86.0 585.0 Td (Beginner mindset) Tj ET
+0.86 0.08 0.08 rg 72.0 519.0 m 72.0 524.5 67.5 529.0 62.0 529.0 c 56.5 529.0 52.0 524.5 52.0 519.0 c 52.0 513.5 56.5 509.0 62.0 509.0 c 67.5 509.0 72.0 513.5 72.0 519.0 c f
+1 1 1 rg BT /F2 8 Tf 58.0 515.0 Td (3) Tj ET
+0.09 0.06 0.06 rg BT /F2 11.5 Tf 86.0 524.0 Td (Candlesticks) Tj ET
+0.86 0.08 0.08 rg 72.0 458.0 m 72.0 463.5 67.5 468.0 62.0 468.0 c 56.5 468.0 52.0 463.5 52.0 458.0 c 52.0 452.5 56.5 448.0 62.0 448.0 c 67.5 448.0 72.0 452.5 72.0 458.0 c f
+1 1 1 rg BT /F2 8 Tf 58.0 454.0 Td (4) Tj ET
+0.09 0.06 0.06 rg BT /F2 11.5 Tf 86.0 463.0 Td (Support and resistance) Tj ET
+0.86 0.08 0.08 rg 72.0 397.0 m 72.0 402.5 67.5 407.0 62.0 407.0 c 56.5 407.0 52.0 402.5 52.0 397.0 c 52.0 391.5 56.5 387.0 62.0 387.0 c 67.5 387.0 72.0 391.5 72.0 397.0 c f
+1 1 1 rg BT /F2 8 Tf 58.0 393.0 Td (5) Tj ET
+0.09 0.06 0.06 rg BT /F2 11.5 Tf 86.0 402.0 Td (Trends and market structure) Tj ET
+0.86 0.08 0.08 rg 72.0 336.0 m 72.0 341.5 67.5 346.0 62.0 346.0 c 56.5 346.0 52.0 341.5 52.0 336.0 c 52.0 330.5 56.5 326.0 62.0 326.0 c 67.5 326.0 72.0 330.5 72.0 336.0 c f
+1 1 1 rg BT /F2 8 Tf 58.0 332.0 Td (6) Tj ET
+0.09 0.06 0.06 rg BT /F2 11.5 Tf 86.0 341.0 Td (Timeframes) Tj ET
+0.86 0.08 0.08 rg 72.0 275.0 m 72.0 280.5 67.5 285.0 62.0 285.0 c 56.5 285.0 52.0 280.5 52.0 275.0 c 52.0 269.5 56.5 265.0 62.0 265.0 c 67.5 265.0 72.0 269.5 72.0 275.0 c f
+1 1 1 rg BT /F2 8 Tf 58.0 271.0 Td (7) Tj ET
+0.09 0.06 0.06 rg BT /F2 11.5 Tf 86.0 280.0 Td (Volume, moving averages, RSI) Tj ET
+0.86 0.08 0.08 rg 72.0 214.0 m 72.0 219.5 67.5 224.0 62.0 224.0 c 56.5 224.0 52.0 219.5 52.0 214.0 c 52.0 208.5 56.5 204.0 62.0 204.0 c 67.5 204.0 72.0 208.5 72.0 214.0 c f
+1 1 1 rg BT /F2 8 Tf 58.0 210.0 Td (8) Tj ET
+0.09 0.06 0.06 rg BT /F2 11.5 Tf 86.0 219.0 Td (Entries, exits, stops, targets) Tj ET
+0.86 0.08 0.08 rg 328.0 641.0 m 328.0 646.5 323.5 651.0 318.0 651.0 c 312.5 651.0 308.0 646.5 308.0 641.0 c 308.0 635.5 312.5 631.0 318.0 631.0 c 323.5 631.0 328.0 635.5 328.0 641.0 c f
+1 1 1 rg BT /F2 8 Tf 314.0 637.0 Td (9) Tj ET
+0.09 0.06 0.06 rg BT /F2 11.5 Tf 342.0 646.0 Td (Position sizing and risk) Tj ET
+0.86 0.08 0.08 rg 328.0 580.0 m 328.0 585.5 323.5 590.0 318.0 590.0 c 312.5 590.0 308.0 585.5 308.0 580.0 c 308.0 574.5 312.5 570.0 318.0 570.0 c 323.5 570.0 328.0 574.5 328.0 580.0 c f
+1 1 1 rg BT /F2 8 Tf 311.0 576.0 Td (10) Tj ET
+0.09 0.06 0.06 rg BT /F2 11.5 Tf 342.0 585.0 Td (Planned long example) Tj ET
+0.86 0.08 0.08 rg 328.0 519.0 m 328.0 524.5 323.5 529.0 318.0 529.0 c 312.5 529.0 308.0 524.5 308.0 519.0 c 308.0 513.5 312.5 509.0 318.0 509.0 c 323.5 509.0 328.0 513.5 328.0 519.0 c f
+1 1 1 rg BT /F2 8 Tf 311.0 515.0 Td (11) Tj ET
+0.09 0.06 0.06 rg BT /F2 11.5 Tf 342.0 524.0 Td (When to skip a trade) Tj ET
+0.86 0.08 0.08 rg 328.0 458.0 m 328.0 463.5 323.5 468.0 318.0 468.0 c 312.5 468.0 308.0 463.5 308.0 458.0 c 308.0 452.5 312.5 448.0 318.0 448.0 c 323.5 448.0 328.0 452.5 328.0 458.0 c f
+1 1 1 rg BT /F2 8 Tf 311.0 454.0 Td (12) Tj ET
+0.09 0.06 0.06 rg BT /F2 11.5 Tf 342.0 463.0 Td (Felix Crypto Edge workflow) Tj ET
+0.86 0.08 0.08 rg 328.0 397.0 m 328.0 402.5 323.5 407.0 318.0 407.0 c 312.5 407.0 308.0 402.5 308.0 397.0 c 308.0 391.5 312.5 387.0 318.0 387.0 c 323.5 387.0 328.0 391.5 328.0 397.0 c f
+1 1 1 rg BT /F2 8 Tf 311.0 393.0 Td (13) Tj ET
+0.09 0.06 0.06 rg BT /F2 11.5 Tf 342.0 402.0 Td (Checklist) Tj ET
+0.86 0.08 0.08 rg 328.0 336.0 m 328.0 341.5 323.5 346.0 318.0 346.0 c 312.5 346.0 308.0 341.5 308.0 336.0 c 308.0 330.5 312.5 326.0 318.0 326.0 c 323.5 326.0 328.0 330.5 328.0 336.0 c f
+1 1 1 rg BT /F2 8 Tf 311.0 332.0 Td (14) Tj ET
+0.09 0.06 0.06 rg BT /F2 11.5 Tf 342.0 341.0 Td (Mistakes) Tj ET
+0.86 0.08 0.08 rg 328.0 275.0 m 328.0 280.5 323.5 285.0 318.0 285.0 c 312.5 285.0 308.0 280.5 308.0 275.0 c 308.0 269.5 312.5 265.0 318.0 265.0 c 323.5 265.0 328.0 269.5 328.0 275.0 c f
+1 1 1 rg BT /F2 8 Tf 311.0 271.0 Td (15) Tj ET
+0.09 0.06 0.06 rg BT /F2 11.5 Tf 342.0 280.0 Td (Glossary) Tj ET
+0.86 0.08 0.08 rg 328.0 214.0 m 328.0 219.5 323.5 224.0 318.0 224.0 c 312.5 224.0 308.0 219.5 308.0 214.0 c 308.0 208.5 312.5 204.0 318.0 204.0 c 323.5 204.0 328.0 208.5 328.0 214.0 c f
+1 1 1 rg BT /F2 8 Tf 311.0 210.0 Td (16) Tj ET
+0.09 0.06 0.06 rg BT /F2 11.5 Tf 342.0 219.0 Td (7-day practice plan) Tj ET
 endstream
 endobj
 8 0 obj
-<< /Type /Page /Parent 21 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 7 0 R >>
+<< /Type /Page /Parent 45 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 7 0 R >>
 endobj
 9 0 obj
-<< /Length 2316 >>
+<< /Length 3710 >>
 stream
 1 1 1 rg 0.0 0.0 595.0 842.0 re f
-0.86 0.1 0.1 rg 0.0 826.0 595.0 16.0 re f
-0.04 0.035 0.035 rg BT /F2 24 Tf 42.0 784.0 Td (3. Trends: Up, Down, or Sideways?) Tj ET
-0.42 0.32 0.32 rg BT /F1 10 Tf 42.0 760.0 Td (Before looking for entries, beginners should ask: what is the market doing) Tj ET
-0.42 0.32 0.32 rg BT /F1 10 Tf 42.0 746.0 Td (overall?) Tj ET
-0.86 0.1 0.1 RG 1.2 w 42.0 746.0 m 553.0 746.0 l S
-0.04 0.035 0.035 rg 52.0 440.0 240.0 160.0 re f
-0.8 0.15 0.15 RG 1 w 52.0 440.0 240.0 160.0 re S
-0.86 0.1 0.1 RG 3 w 70.0 500.0 m 120.0 535.0 l S
-0.86 0.1 0.1 RG 3 w 120.0 535.0 m 170.0 520.0 l S
-0.86 0.1 0.1 RG 3 w 170.0 520.0 m 220.0 570.0 l S
-0.86 0.1 0.1 RG 3 w 220.0 570.0 m 270.0 550.0 l S
-1 0.86 0.86 rg BT /F2 10.5 Tf 64.0 458.0 Td (Uptrend: higher highs + higher lows) Tj ET
-0.04 0.035 0.035 rg 303.0 440.0 240.0 160.0 re f
-0.8 0.15 0.15 RG 1 w 303.0 440.0 240.0 160.0 re S
-0.86 0.1 0.1 RG 3 w 325.0 570.0 m 375.0 535.0 l S
-0.86 0.1 0.1 RG 3 w 375.0 535.0 m 425.0 550.0 l S
-0.86 0.1 0.1 RG 3 w 425.0 550.0 m 475.0 505.0 l S
-0.86 0.1 0.1 RG 3 w 475.0 505.0 m 525.0 520.0 l S
-1 0.86 0.86 rg BT /F2 10.5 Tf 315.0 458.0 Td (Downtrend: lower highs + lower lows) Tj ET
-0.04 0.035 0.035 rg 52.0 235.0 491.0 160.0 re f
-0.8 0.15 0.15 RG 1 w 52.0 235.0 491.0 160.0 re S
-0.86 0.1 0.1 RG 3 w 90.0 315.0 m 150.0 365.0 l S
-0.86 0.1 0.1 RG 3 w 150.0 365.0 m 210.0 315.0 l S
-0.86 0.1 0.1 RG 3 w 210.0 315.0 m 270.0 365.0 l S
-0.86 0.1 0.1 RG 3 w 270.0 365.0 m 330.0 315.0 l S
-0.86 0.1 0.1 RG 3 w 330.0 315.0 m 390.0 365.0 l S
-0.86 0.1 0.1 RG 3 w 390.0 365.0 m 450.0 315.0 l S
-0.86 0.1 0.1 RG 3 w 450.0 315.0 m 510.0 365.0 l S
-1 0.86 0.86 rg BT /F2 10.5 Tf 64.0 253.0 Td (Range: bouncing between zones) Tj ET
-1.0 0.94 0.94 rg 56.0 96.0 483.0 92.0 re f
-0.92 0.32 0.32 RG 1 w 56.0 96.0 483.0 92.0 re S
-0.86 0.1 0.1 rg 93.0 158.0 m 93.0 165.7 86.7 172.0 79.0 172.0 c 71.3 172.0 65.0 165.7 65.0 158.0 c 65.0 150.3 71.3 144.0 79.0 144.0 c 86.7 144.0 93.0 150.3 93.0 158.0 c f
-1 1 1 rg BT /F2 14 Tf 71.0 152.0 Td (!) Tj ET
-0.32 0.02 0.03 rg BT /F2 13 Tf 104.0 160.0 Td (Dummy rule) Tj ET
-0.09 0.06 0.06 rg BT /F1 9.5 Tf 70.0 136.0 Td (If you cannot tell whether the chart is trending or ranging, you probably) Tj ET
-0.09 0.06 0.06 rg BT /F1 9.5 Tf 70.0 123.0 Td (should not trade yet. First label the market condition.) Tj ET
+0.86 0.08 0.08 rg 0.0 826.0 595.0 16.0 re f
+0.04 0.035 0.035 rg BT /F2 23 Tf 42.0 784.0 Td (What Crypto Trading Really Is) Tj ET
+0.42 0.32 0.32 rg BT /F1 10 Tf 42.0 760.0 Td (Trading is not guessing. It is planning, managing risk, and accepting) Tj ET
+0.42 0.32 0.32 rg BT /F1 10 Tf 42.0 746.0 Td (uncertainty.) Tj ET
+0.86 0.08 0.08 RG 1.2 w 42.0 744.0 m 553.0 744.0 l S
+1.0 0.94 0.94 rg 58.0 495.0 225.0 105.0 re f
+0.92 0.32 0.32 RG 1 w 58.0 495.0 225.0 105.0 re S
+0.86 0.08 0.08 rg 93.0 571.0 m 93.0 578.2 87.2 584.0 80.0 584.0 c 72.8 584.0 67.0 578.2 67.0 571.0 c 67.0 563.8 72.8 558.0 80.0 558.0 c 87.2 558.0 93.0 563.8 93.0 571.0 c f
+1 1 1 rg BT /F2 9.5 Tf 76.0 566.0 Td (1) Tj ET
+0.35 0.02 0.03 rg BT /F2 12.5 Tf 103.0 572.0 Td (Not a prediction game) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 72.0 550.0 Td (A trader does not need to know the) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 72.0 537.5 Td (future. A trader needs a plan for) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 72.0 525.0 Td (what to do if price moves either) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 72.0 512.5 Td (way.) Tj ET
+1.0 0.94 0.94 rg 312.0 495.0 225.0 105.0 re f
+0.92 0.32 0.32 RG 1 w 312.0 495.0 225.0 105.0 re S
+0.86 0.08 0.08 rg 347.0 571.0 m 347.0 578.2 341.2 584.0 334.0 584.0 c 326.8 584.0 321.0 578.2 321.0 571.0 c 321.0 563.8 326.8 558.0 334.0 558.0 c 341.2 558.0 347.0 563.8 347.0 571.0 c f
+1 1 1 rg BT /F2 9.5 Tf 330.0 566.0 Td (2) Tj ET
+0.35 0.02 0.03 rg BT /F2 12.5 Tf 357.0 572.0 Td (Repeatable process) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 326.0 550.0 Td (Look for trend, zones, entry) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 326.0 537.5 Td (reason, invalidation, risk, and) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 326.0 525.0 Td (reward in the same order every) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 326.0 512.5 Td (time.) Tj ET
+1.0 0.94 0.94 rg 58.0 353.0 225.0 105.0 re f
+0.92 0.32 0.32 RG 1 w 58.0 353.0 225.0 105.0 re S
+0.86 0.08 0.08 rg 93.0 429.0 m 93.0 436.2 87.2 442.0 80.0 442.0 c 72.8 442.0 67.0 436.2 67.0 429.0 c 67.0 421.8 72.8 416.0 80.0 416.0 c 87.2 416.0 93.0 421.8 93.0 429.0 c f
+1 1 1 rg BT /F2 9.5 Tf 76.0 424.0 Td (3) Tj ET
+0.35 0.02 0.03 rg BT /F2 12.5 Tf 103.0 430.0 Td (Losses are normal) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 72.0 408.0 Td (Even good setups can fail. The) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 72.0 395.5 Td (goal is to keep losses small) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 72.0 383.0 Td (enough to continue learning.) Tj ET
+1.0 0.94 0.94 rg 312.0 353.0 225.0 105.0 re f
+0.92 0.32 0.32 RG 1 w 312.0 353.0 225.0 105.0 re S
+0.86 0.08 0.08 rg 347.0 429.0 m 347.0 436.2 341.2 442.0 334.0 442.0 c 326.8 442.0 321.0 436.2 321.0 429.0 c 321.0 421.8 326.8 416.0 334.0 416.0 c 341.2 416.0 347.0 421.8 347.0 429.0 c f
+1 1 1 rg BT /F2 9.5 Tf 330.0 424.0 Td (4) Tj ET
+0.35 0.02 0.03 rg BT /F2 12.5 Tf 357.0 430.0 Td (No guarantees) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 326.0 408.0 Td (No indicator, tool, or signal) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 326.0 395.5 Td (provider can guarantee profit in) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 326.0 383.0 Td (crypto markets.) Tj ET
+1.0 0.88 0.88 rg 58.0 92.0 480.0 80.0 re f
+0.92 0.32 0.32 RG 1 w 58.0 92.0 480.0 80.0 re S
+0.86 0.08 0.08 rg 93.0 143.0 m 93.0 150.2 87.2 156.0 80.0 156.0 c 72.8 156.0 67.0 150.2 67.0 143.0 c 67.0 135.8 72.8 130.0 80.0 130.0 c 87.2 130.0 93.0 135.8 93.0 143.0 c f
+1 1 1 rg BT /F2 9.5 Tf 73.0 138.0 Td (OK) Tj ET
+0.35 0.02 0.03 rg BT /F2 12.5 Tf 103.0 144.0 Td (Dummy rule) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 72.0 122.0 Td (If you cannot explain the trade in one simple sentence, you probably do not) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 72.0 109.5 Td (have a trade yet.) Tj ET
 endstream
 endobj
 10 0 obj
-<< /Type /Page /Parent 21 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 9 0 R >>
+<< /Type /Page /Parent 45 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 9 0 R >>
 endobj
 11 0 obj
-<< /Length 2545 >>
+<< /Length 3639 >>
 stream
 1 1 1 rg 0.0 0.0 595.0 842.0 re f
-0.86 0.1 0.1 rg 0.0 826.0 595.0 16.0 re f
-0.04 0.035 0.035 rg BT /F2 24 Tf 42.0 784.0 Td (4. The Most Important Part: Risk) Tj ET
-0.42 0.32 0.32 rg BT /F1 10 Tf 42.0 760.0 Td (Beginners obsess over entries. Survivors obsess over how much they can lose if) Tj ET
-0.42 0.32 0.32 rg BT /F1 10 Tf 42.0 746.0 Td (wrong.) Tj ET
-0.86 0.1 0.1 RG 1.2 w 42.0 746.0 m 553.0 746.0 l S
-0.03 0.03 0.03 rg 70.0 310.0 455.0 250.0 re f
-0.75 0.12 0.12 RG 1 w 70.0 310.0 455.0 250.0 re S
-0.86 0.1 0.1 RG 4 w 95.0 360.0 m 500.0 500.0 l S
-0.9 0.9 0.9 RG 1 w 95.0 390.0 m 500.0 390.0 l S
-1 1 1 rg BT /F2 11 Tf 420.0 398.0 Td (Entry) Tj ET
-0.15 0.75 0.32 RG 2 w 95.0 340.0 m 500.0 340.0 l S
-0.8 1 0.84 rg BT /F2 11 Tf 405.0 348.0 Td (Stop-loss) Tj ET
-1 0.4 0.4 RG 2 w 95.0 510.0 m 500.0 510.0 l S
-1 0.84 0.84 rg BT /F2 11 Tf 412.0 518.0 Td (Target) Tj ET
-1.0 0.94 0.94 rg 56.0 210.0 230.0 70.0 re f
-0.92 0.32 0.32 RG 1 w 56.0 210.0 230.0 70.0 re S
-0.86 0.1 0.1 rg 93.0 250.0 m 93.0 257.7 86.7 264.0 79.0 264.0 c 71.3 264.0 65.0 257.7 65.0 250.0 c 65.0 242.3 71.3 236.0 79.0 236.0 c 86.7 236.0 93.0 242.3 93.0 250.0 c f
-1 1 1 rg BT /F2 14 Tf 71.0 244.0 Td (EUR) Tj ET
-0.32 0.02 0.03 rg BT /F2 13 Tf 104.0 252.0 Td (Example) Tj ET
-0.09 0.06 0.06 rg BT /F1 9.5 Tf 70.0 228.0 Td (Account: EUR1,000. Risk: 1%. Max) Tj ET
-0.09 0.06 0.06 rg BT /F1 9.5 Tf 70.0 215.0 Td (loss: EUR10.) Tj ET
-1.0 0.94 0.94 rg 310.0 210.0 230.0 70.0 re f
-0.92 0.32 0.32 RG 1 w 310.0 210.0 230.0 70.0 re S
-0.86 0.1 0.1 rg 347.0 250.0 m 347.0 257.7 340.7 264.0 333.0 264.0 c 325.3 264.0 319.0 257.7 319.0 250.0 c 319.0 242.3 325.3 236.0 333.0 236.0 c 340.7 236.0 347.0 242.3 347.0 250.0 c f
-1 1 1 rg BT /F2 14 Tf 325.0 244.0 Td (!) Tj ET
-0.32 0.02 0.03 rg BT /F2 13 Tf 358.0 252.0 Td (Key idea) Tj ET
-0.09 0.06 0.06 rg BT /F1 9.5 Tf 324.0 228.0 Td (The stop-loss decides how big) Tj ET
-0.09 0.06 0.06 rg BT /F1 9.5 Tf 324.0 215.0 Td (your position can be.) Tj ET
-1.0 0.94 0.94 rg 56.0 93.0 483.0 84.0 re f
-0.92 0.32 0.32 RG 1 w 56.0 93.0 483.0 84.0 re S
-0.86 0.1 0.1 rg 93.0 147.0 m 93.0 154.7 86.7 161.0 79.0 161.0 c 71.3 161.0 65.0 154.7 65.0 147.0 c 65.0 139.3 71.3 133.0 79.0 133.0 c 86.7 133.0 93.0 139.3 93.0 147.0 c f
-1 1 1 rg BT /F2 14 Tf 71.0 141.0 Td (?) Tj ET
-0.32 0.02 0.03 rg BT /F2 13 Tf 104.0 149.0 Td (Trading for dummies rule) Tj ET
-0.09 0.06 0.06 rg BT /F1 9.5 Tf 70.0 125.0 Td (A good trade is not one that must win. A good trade is one where the loss) Tj ET
-0.09 0.06 0.06 rg BT /F1 9.5 Tf 70.0 112.0 Td (is controlled before you enter.) Tj ET
+0.86 0.08 0.08 rg 0.0 826.0 595.0 16.0 re f
+0.04 0.035 0.035 rg BT /F2 23 Tf 42.0 784.0 Td (The Beginner Mindset) Tj ET
+0.42 0.32 0.32 rg BT /F1 10 Tf 42.0 760.0 Td (Most beginners lose because they rush. Slow decisions are usually better) Tj ET
+0.42 0.32 0.32 rg BT /F1 10 Tf 42.0 746.0 Td (decisions.) Tj ET
+0.86 0.08 0.08 RG 1.2 w 42.0 744.0 m 553.0 744.0 l S
+1.0 0.94 0.94 rg 58.0 495.0 225.0 105.0 re f
+0.92 0.32 0.32 RG 1 w 58.0 495.0 225.0 105.0 re S
+0.86 0.08 0.08 rg 93.0 571.0 m 93.0 578.2 87.2 584.0 80.0 584.0 c 72.8 584.0 67.0 578.2 67.0 571.0 c 67.0 563.8 72.8 558.0 80.0 558.0 c 87.2 558.0 93.0 563.8 93.0 571.0 c f
+1 1 1 rg BT /F2 9.5 Tf 76.0 566.0 Td (1) Tj ET
+0.35 0.02 0.03 rg BT /F2 12.5 Tf 103.0 572.0 Td (Survival first) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 72.0 550.0 Td (Do not blow up the account. A) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 72.0 537.5 Td (small account that survives can) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 72.0 525.0 Td (learn; a destroyed account cannot.) Tj ET
+1.0 0.94 0.94 rg 312.0 495.0 225.0 105.0 re f
+0.92 0.32 0.32 RG 1 w 312.0 495.0 225.0 105.0 re S
+0.86 0.08 0.08 rg 347.0 571.0 m 347.0 578.2 341.2 584.0 334.0 584.0 c 326.8 584.0 321.0 578.2 321.0 571.0 c 321.0 563.8 326.8 558.0 334.0 558.0 c 341.2 558.0 347.0 563.8 347.0 571.0 c f
+1 1 1 rg BT /F2 9.5 Tf 330.0 566.0 Td (2) Tj ET
+0.35 0.02 0.03 rg BT /F2 12.5 Tf 357.0 572.0 Td (Structure second) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 326.0 550.0 Td (Use the same checklist every time) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 326.0 537.5 Td (so you can improve your process) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 326.0 525.0 Td (instead of reacting randomly.) Tj ET
+1.0 0.94 0.94 rg 58.0 353.0 225.0 105.0 re f
+0.92 0.32 0.32 RG 1 w 58.0 353.0 225.0 105.0 re S
+0.86 0.08 0.08 rg 93.0 429.0 m 93.0 436.2 87.2 442.0 80.0 442.0 c 72.8 442.0 67.0 436.2 67.0 429.0 c 67.0 421.8 72.8 416.0 80.0 416.0 c 87.2 416.0 93.0 421.8 93.0 429.0 c f
+1 1 1 rg BT /F2 9.5 Tf 76.0 424.0 Td (3) Tj ET
+0.35 0.02 0.03 rg BT /F2 12.5 Tf 103.0 430.0 Td (Learning third) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 72.0 408.0 Td (Review what happened after each) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 72.0 395.5 Td (practice setup. Ask what you saw,) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 72.0 383.0 Td (what you missed, and what to) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 72.0 370.5 Td (improve.) Tj ET
+1.0 0.94 0.94 rg 312.0 353.0 225.0 105.0 re f
+0.92 0.32 0.32 RG 1 w 312.0 353.0 225.0 105.0 re S
+0.86 0.08 0.08 rg 347.0 429.0 m 347.0 436.2 341.2 442.0 334.0 442.0 c 326.8 442.0 321.0 436.2 321.0 429.0 c 321.0 421.8 326.8 416.0 334.0 416.0 c 341.2 416.0 347.0 421.8 347.0 429.0 c f
+1 1 1 rg BT /F2 9.5 Tf 330.0 424.0 Td (4) Tj ET
+0.35 0.02 0.03 rg BT /F2 12.5 Tf 357.0 430.0 Td (Emotion control) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 326.0 408.0 Td (If you feel panic, revenge, or) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 326.0 395.5 Td (FOMO, step away. Emotion turns) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 326.0 383.0 Td (small mistakes into expensive) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 326.0 370.5 Td (ones.) Tj ET
+1.0 0.88 0.88 rg 58.0 92.0 480.0 80.0 re f
+0.92 0.32 0.32 RG 1 w 58.0 92.0 480.0 80.0 re S
+0.86 0.08 0.08 rg 93.0 143.0 m 93.0 150.2 87.2 156.0 80.0 156.0 c 72.8 156.0 67.0 150.2 67.0 143.0 c 67.0 135.8 72.8 130.0 80.0 130.0 c 87.2 130.0 93.0 135.8 93.0 143.0 c f
+1 1 1 rg BT /F2 9.5 Tf 73.0 138.0 Td (OK) Tj ET
+0.35 0.02 0.03 rg BT /F2 12.5 Tf 103.0 144.0 Td (Dummy rule) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 72.0 122.0 Td (The market will still be there tomorrow. You do not need to chase today.) Tj ET
 endstream
 endobj
 12 0 obj
-<< /Type /Page /Parent 21 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 11 0 R >>
+<< /Type /Page /Parent 45 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 11 0 R >>
 endobj
 13 0 obj
-<< /Length 2866 >>
+<< /Length 2129 >>
 stream
 1 1 1 rg 0.0 0.0 595.0 842.0 re f
-0.86 0.1 0.1 rg 0.0 826.0 595.0 16.0 re f
-0.04 0.035 0.035 rg BT /F2 24 Tf 42.0 784.0 Td (5. How Felix Crypto Edge Helps) Tj ET
-0.42 0.32 0.32 rg BT /F1 10 Tf 42.0 760.0 Td (The tool is not a crystal ball. It is a training wheel that helps beginners) Tj ET
-0.42 0.32 0.32 rg BT /F1 10 Tf 42.0 746.0 Td (follow a process.) Tj ET
-0.86 0.1 0.1 RG 1.2 w 42.0 746.0 m 553.0 746.0 l S
-0.03 0.03 0.03 rg 55.0 230.0 485.0 360.0 re f
-0.75 0.12 0.12 RG 1 w 55.0 230.0 485.0 360.0 re S
-0.37 0.02 0.02 rg 80.0 465.0 420.0 42.0 re f
-0.95 0.13 0.13 RG 1 w 80.0 465.0 420.0 42.0 re S
-1 0.84 0.84 rg BT /F2 11 Tf 92.0 482.0 Td (Possible sell / take-profit zone) Tj ET
-0.05 0.25 0.1 rg 80.0 285.0 420.0 42.0 re f
-0.15 0.75 0.32 RG 1 w 80.0 285.0 420.0 42.0 re S
-0.86 1 0.88 rg BT /F2 11 Tf 92.0 302.0 Td (Possible buy / watch zone) Tj ET
-0.86 0.1 0.1 RG 4 w 90.0 310.0 m 130.0 340.0 l S
-0.86 0.1 0.1 RG 4 w 130.0 340.0 m 170.0 325.0 l S
-0.86 0.1 0.1 RG 4 w 170.0 325.0 m 210.0 390.0 l S
-0.86 0.1 0.1 RG 4 w 210.0 390.0 m 250.0 370.0 l S
-0.86 0.1 0.1 RG 4 w 250.0 370.0 m 295.0 435.0 l S
-0.86 0.1 0.1 RG 4 w 295.0 435.0 m 335.0 415.0 l S
-0.86 0.1 0.1 RG 4 w 335.0 415.0 m 380.0 480.0 l S
-0.86 0.1 0.1 RG 4 w 380.0 480.0 m 425.0 455.0 l S
-0.86 0.1 0.1 RG 4 w 425.0 455.0 m 500.0 505.0 l S
-1.0 0.94 0.94 rg 56.0 130.0 148.0 72.0 re f
-0.92 0.32 0.32 RG 1 w 56.0 130.0 148.0 72.0 re S
-0.86 0.1 0.1 rg 93.0 172.0 m 93.0 179.7 86.7 186.0 79.0 186.0 c 71.3 186.0 65.0 179.7 65.0 172.0 c 65.0 164.3 71.3 158.0 79.0 158.0 c 86.7 158.0 93.0 164.3 93.0 172.0 c f
-1 1 1 rg BT /F2 14 Tf 71.0 166.0 Td (1) Tj ET
-0.32 0.02 0.03 rg BT /F2 13 Tf 104.0 174.0 Td (Trend) Tj ET
-0.09 0.06 0.06 rg BT /F1 9.5 Tf 70.0 150.0 Td (Is price moving up,) Tj ET
-0.09 0.06 0.06 rg BT /F1 9.5 Tf 70.0 137.0 Td (down, or sideways?) Tj ET
-1.0 0.94 0.94 rg 224.0 130.0 148.0 72.0 re f
-0.92 0.32 0.32 RG 1 w 224.0 130.0 148.0 72.0 re S
-0.86 0.1 0.1 rg 261.0 172.0 m 261.0 179.7 254.7 186.0 247.0 186.0 c 239.3 186.0 233.0 179.7 233.0 172.0 c 233.0 164.3 239.3 158.0 247.0 158.0 c 254.7 158.0 261.0 164.3 261.0 172.0 c f
-1 1 1 rg BT /F2 14 Tf 239.0 166.0 Td (2) Tj ET
-0.32 0.02 0.03 rg BT /F2 13 Tf 272.0 174.0 Td (Zones) Tj ET
-0.09 0.06 0.06 rg BT /F1 9.5 Tf 238.0 150.0 Td (Where did price) Tj ET
-0.09 0.06 0.06 rg BT /F1 9.5 Tf 238.0 137.0 Td (react before?) Tj ET
-1.0 0.94 0.94 rg 392.0 130.0 148.0 72.0 re f
-0.92 0.32 0.32 RG 1 w 392.0 130.0 148.0 72.0 re S
-0.86 0.1 0.1 rg 429.0 172.0 m 429.0 179.7 422.7 186.0 415.0 186.0 c 407.3 186.0 401.0 179.7 401.0 172.0 c 401.0 164.3 407.3 158.0 415.0 158.0 c 422.7 158.0 429.0 164.3 429.0 172.0 c f
-1 1 1 rg BT /F2 14 Tf 407.0 166.0 Td (3) Tj ET
-0.32 0.02 0.03 rg BT /F2 13 Tf 440.0 174.0 Td (Risk) Tj ET
-0.09 0.06 0.06 rg BT /F1 9.5 Tf 406.0 150.0 Td (Where is the idea) Tj ET
-0.09 0.06 0.06 rg BT /F1 9.5 Tf 406.0 137.0 Td (wrong?) Tj ET
+0.86 0.08 0.08 rg 0.0 826.0 595.0 16.0 re f
+0.04 0.035 0.035 rg BT /F2 23 Tf 42.0 784.0 Td (Candlesticks Explained Simply) Tj ET
+0.42 0.32 0.32 rg BT /F1 10 Tf 42.0 760.0 Td (A candle is a compact picture of what price did during one selected period.) Tj ET
+0.86 0.08 0.08 RG 1.2 w 42.0 744.0 m 553.0 744.0 l S
+0.05 0.58 0.26 RG 3 w 150.0 300.0 m 150.0 560.0 l S
+0.05 0.58 0.26 rg 122.0 380.0 56.0 110.0 re f
+0.05 0.58 0.26 RG 1 w 122.0 380.0 56.0 110.0 re S
+0.05 0.58 0.26 rg BT /F2 12 Tf 78.0 540.0 Td (High) Tj ET
+0.05 0.58 0.26 RG 1 w 116.0 544.0 m 150.0 560.0 l S
+0.05 0.58 0.26 rg BT /F2 12 Tf 67.0 460.0 Td (Close) Tj ET
+0.05 0.58 0.26 RG 1 w 116.0 464.0 m 122.0 490.0 l S
+0.05 0.58 0.26 rg BT /F2 12 Tf 70.0 365.0 Td (Open) Tj ET
+0.05 0.58 0.26 RG 1 w 116.0 369.0 m 122.0 380.0 l S
+0.05 0.58 0.26 rg BT /F2 12 Tf 84.0 295.0 Td (Low) Tj ET
+0.05 0.58 0.26 RG 1 w 116.0 299.0 m 150.0 300.0 l S
+0.86 0.08 0.08 RG 3 w 410.0 300.0 m 410.0 560.0 l S
+0.86 0.08 0.08 rg 382.0 380.0 56.0 110.0 re f
+0.86 0.08 0.08 RG 1 w 382.0 380.0 56.0 110.0 re S
+0.86 0.08 0.08 rg BT /F2 12 Tf 333.0 540.0 Td (High) Tj ET
+0.86 0.08 0.08 RG 1 w 370.0 544.0 m 410.0 560.0 l S
+0.86 0.08 0.08 rg BT /F2 12 Tf 326.0 460.0 Td (Open) Tj ET
+0.86 0.08 0.08 RG 1 w 370.0 464.0 m 382.0 490.0 l S
+0.86 0.08 0.08 rg BT /F2 12 Tf 325.0 365.0 Td (Close) Tj ET
+0.86 0.08 0.08 RG 1 w 370.0 369.0 m 382.0 380.0 l S
+0.86 0.08 0.08 rg BT /F2 12 Tf 338.0 295.0 Td (Low) Tj ET
+0.86 0.08 0.08 RG 1 w 370.0 299.0 m 410.0 300.0 l S
+1.0 0.94 0.94 rg 56.0 108.0 483.0 92.0 re f
+0.92 0.32 0.32 RG 1 w 56.0 108.0 483.0 92.0 re S
+0.86 0.08 0.08 rg 91.0 171.0 m 91.0 178.2 85.2 184.0 78.0 184.0 c 70.8 184.0 65.0 178.2 65.0 171.0 c 65.0 163.8 70.8 158.0 78.0 158.0 c 85.2 158.0 91.0 163.8 91.0 171.0 c f
+1 1 1 rg BT /F2 9.5 Tf 74.0 166.0 Td (!) Tj ET
+0.35 0.02 0.03 rg BT /F2 12.5 Tf 101.0 172.0 Td (Beginner rule) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 70.0 150.0 Td (Do not trade from one candle alone. A candle matters most when it appears at) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 70.0 137.5 Td (support, resistance, or a trendline.) Tj ET
 endstream
 endobj
 14 0 obj
-<< /Type /Page /Parent 21 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 13 0 R >>
+<< /Type /Page /Parent 45 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 13 0 R >>
 endobj
 15 0 obj
-<< /Length 5244 >>
+<< /Length 2726 >>
 stream
 1 1 1 rg 0.0 0.0 595.0 842.0 re f
-0.86 0.1 0.1 rg 0.0 826.0 595.0 16.0 re f
-0.04 0.035 0.035 rg BT /F2 24 Tf 42.0 784.0 Td (6. Beginner Checklist Before Any Trade) Tj ET
-0.42 0.32 0.32 rg BT /F1 10 Tf 42.0 760.0 Td (If you cannot answer these questions, skip the trade. Skipping bad trades is a) Tj ET
-0.42 0.32 0.32 rg BT /F1 10 Tf 42.0 746.0 Td (skill.) Tj ET
-0.86 0.1 0.1 RG 1.2 w 42.0 746.0 m 553.0 746.0 l S
-1.0 0.94 0.94 rg 62.0 586.0 220.0 56.0 re f
-0.9 0.25 0.25 RG 1 w 62.0 586.0 220.0 56.0 re S
-0.86 0.1 0.1 rg 93.0 614.0 m 93.0 620.1 88.1 625.0 82.0 625.0 c 75.9 625.0 71.0 620.1 71.0 614.0 c 71.0 607.9 75.9 603.0 82.0 603.0 c 88.1 603.0 93.0 607.9 93.0 614.0 c f
-1 1 1 rg BT /F2 9 Tf 78.0 609.0 Td (1) Tj ET
-0.09 0.06 0.06 rg BT /F2 10.5 Tf 104.0 621.0 Td (What coin am I trading?) Tj ET
-1.0 0.94 0.94 rg 62.0 504.0 220.0 56.0 re f
-0.9 0.25 0.25 RG 1 w 62.0 504.0 220.0 56.0 re S
-0.86 0.1 0.1 rg 93.0 532.0 m 93.0 538.1 88.1 543.0 82.0 543.0 c 75.9 543.0 71.0 538.1 71.0 532.0 c 71.0 525.9 75.9 521.0 82.0 521.0 c 88.1 521.0 93.0 525.9 93.0 532.0 c f
-1 1 1 rg BT /F2 9 Tf 78.0 527.0 Td (2) Tj ET
-0.09 0.06 0.06 rg BT /F2 10.5 Tf 104.0 539.0 Td (What timeframe am I) Tj ET
-0.09 0.06 0.06 rg BT /F2 10.5 Tf 104.0 526.0 Td (using?) Tj ET
-1.0 0.94 0.94 rg 62.0 422.0 220.0 56.0 re f
-0.9 0.25 0.25 RG 1 w 62.0 422.0 220.0 56.0 re S
-0.86 0.1 0.1 rg 93.0 450.0 m 93.0 456.1 88.1 461.0 82.0 461.0 c 75.9 461.0 71.0 456.1 71.0 450.0 c 71.0 443.9 75.9 439.0 82.0 439.0 c 88.1 439.0 93.0 443.9 93.0 450.0 c f
-1 1 1 rg BT /F2 9 Tf 78.0 445.0 Td (3) Tj ET
-0.09 0.06 0.06 rg BT /F2 10.5 Tf 104.0 457.0 Td (Is the market trending) Tj ET
-0.09 0.06 0.06 rg BT /F2 10.5 Tf 104.0 444.0 Td (or ranging?) Tj ET
-1.0 0.94 0.94 rg 62.0 340.0 220.0 56.0 re f
-0.9 0.25 0.25 RG 1 w 62.0 340.0 220.0 56.0 re S
-0.86 0.1 0.1 rg 93.0 368.0 m 93.0 374.1 88.1 379.0 82.0 379.0 c 75.9 379.0 71.0 374.1 71.0 368.0 c 71.0 361.9 75.9 357.0 82.0 357.0 c 88.1 357.0 93.0 361.9 93.0 368.0 c f
-1 1 1 rg BT /F2 9 Tf 78.0 363.0 Td (4) Tj ET
-0.09 0.06 0.06 rg BT /F2 10.5 Tf 104.0 375.0 Td (Where is support?) Tj ET
-1.0 0.94 0.94 rg 62.0 258.0 220.0 56.0 re f
-0.9 0.25 0.25 RG 1 w 62.0 258.0 220.0 56.0 re S
-0.86 0.1 0.1 rg 93.0 286.0 m 93.0 292.1 88.1 297.0 82.0 297.0 c 75.9 297.0 71.0 292.1 71.0 286.0 c 71.0 279.9 75.9 275.0 82.0 275.0 c 88.1 275.0 93.0 279.9 93.0 286.0 c f
-1 1 1 rg BT /F2 9 Tf 78.0 281.0 Td (5) Tj ET
-0.09 0.06 0.06 rg BT /F2 10.5 Tf 104.0 293.0 Td (Where is resistance?) Tj ET
-1.0 0.94 0.94 rg 315.0 586.0 220.0 56.0 re f
-0.9 0.25 0.25 RG 1 w 315.0 586.0 220.0 56.0 re S
-0.86 0.1 0.1 rg 346.0 614.0 m 346.0 620.1 341.1 625.0 335.0 625.0 c 328.9 625.0 324.0 620.1 324.0 614.0 c 324.0 607.9 328.9 603.0 335.0 603.0 c 341.1 603.0 346.0 607.9 346.0 614.0 c f
-1 1 1 rg BT /F2 9 Tf 331.0 609.0 Td (6) Tj ET
-0.09 0.06 0.06 rg BT /F2 10.5 Tf 357.0 621.0 Td (Why is this entry) Tj ET
-0.09 0.06 0.06 rg BT /F2 10.5 Tf 357.0 608.0 Td (interesting?) Tj ET
-1.0 0.94 0.94 rg 315.0 504.0 220.0 56.0 re f
-0.9 0.25 0.25 RG 1 w 315.0 504.0 220.0 56.0 re S
-0.86 0.1 0.1 rg 346.0 532.0 m 346.0 538.1 341.1 543.0 335.0 543.0 c 328.9 543.0 324.0 538.1 324.0 532.0 c 324.0 525.9 328.9 521.0 335.0 521.0 c 341.1 521.0 346.0 525.9 346.0 532.0 c f
-1 1 1 rg BT /F2 9 Tf 331.0 527.0 Td (7) Tj ET
-0.09 0.06 0.06 rg BT /F2 10.5 Tf 357.0 539.0 Td (Where is my stop-loss?) Tj ET
-1.0 0.94 0.94 rg 315.0 422.0 220.0 56.0 re f
-0.9 0.25 0.25 RG 1 w 315.0 422.0 220.0 56.0 re S
-0.86 0.1 0.1 rg 346.0 450.0 m 346.0 456.1 341.1 461.0 335.0 461.0 c 328.9 461.0 324.0 456.1 324.0 450.0 c 324.0 443.9 328.9 439.0 335.0 439.0 c 341.1 439.0 346.0 443.9 346.0 450.0 c f
-1 1 1 rg BT /F2 9 Tf 331.0 445.0 Td (8) Tj ET
-0.09 0.06 0.06 rg BT /F2 10.5 Tf 357.0 457.0 Td (Where is my target?) Tj ET
-1.0 0.94 0.94 rg 315.0 340.0 220.0 56.0 re f
-0.9 0.25 0.25 RG 1 w 315.0 340.0 220.0 56.0 re S
-0.86 0.1 0.1 rg 346.0 368.0 m 346.0 374.1 341.1 379.0 335.0 379.0 c 328.9 379.0 324.0 374.1 324.0 368.0 c 324.0 361.9 328.9 357.0 335.0 357.0 c 341.1 357.0 346.0 361.9 346.0 368.0 c f
-1 1 1 rg BT /F2 9 Tf 331.0 363.0 Td (9) Tj ET
-0.09 0.06 0.06 rg BT /F2 10.5 Tf 357.0 375.0 Td (How much money am I) Tj ET
-0.09 0.06 0.06 rg BT /F2 10.5 Tf 357.0 362.0 Td (risking?) Tj ET
-1.0 0.94 0.94 rg 315.0 258.0 220.0 56.0 re f
-0.9 0.25 0.25 RG 1 w 315.0 258.0 220.0 56.0 re S
-0.86 0.1 0.1 rg 346.0 286.0 m 346.0 292.1 341.1 297.0 335.0 297.0 c 328.9 297.0 324.0 292.1 324.0 286.0 c 324.0 279.9 328.9 275.0 335.0 275.0 c 341.1 275.0 346.0 279.9 346.0 286.0 c f
-1 1 1 rg BT /F2 9 Tf 331.0 281.0 Td (10) Tj ET
-0.09 0.06 0.06 rg BT /F2 10.5 Tf 357.0 293.0 Td (Am I calm, or am I) Tj ET
-0.09 0.06 0.06 rg BT /F2 10.5 Tf 357.0 280.0 Td (chasing?) Tj ET
-1.0 0.94 0.94 rg 56.0 94.0 483.0 80.0 re f
-0.92 0.32 0.32 RG 1 w 56.0 94.0 483.0 80.0 re S
-0.86 0.1 0.1 rg 93.0 144.0 m 93.0 151.7 86.7 158.0 79.0 158.0 c 71.3 158.0 65.0 151.7 65.0 144.0 c 65.0 136.3 71.3 130.0 79.0 130.0 c 86.7 130.0 93.0 136.3 93.0 144.0 c f
-1 1 1 rg BT /F2 14 Tf 71.0 138.0 Td (?) Tj ET
-0.32 0.02 0.03 rg BT /F2 13 Tf 104.0 146.0 Td (Final rule) Tj ET
-0.09 0.06 0.06 rg BT /F1 9.5 Tf 70.0 122.0 Td (The goal is not to trade more. The goal is to trade better, smaller, and) Tj ET
-0.09 0.06 0.06 rg BT /F1 9.5 Tf 70.0 109.0 Td (with a clear reason.) Tj ET
+0.86 0.08 0.08 rg 0.0 826.0 595.0 16.0 re f
+0.04 0.035 0.035 rg BT /F2 23 Tf 42.0 784.0 Td (Support and Resistance Zones) Tj ET
+0.42 0.32 0.32 rg BT /F1 10 Tf 42.0 760.0 Td (Support is where buyers may step in. Resistance is where sellers may step in.) Tj ET
+0.42 0.32 0.32 rg BT /F1 10 Tf 42.0 746.0 Td (Think zones, not perfect lines.) Tj ET
+0.86 0.08 0.08 RG 1.2 w 42.0 744.0 m 553.0 744.0 l S
+0.035 0.03 0.03 rg 65.0 260.0 465.0 325.0 re f
+0.75 0.12 0.12 RG 1 w 65.0 260.0 465.0 325.0 re S
+0.16 0.08 0.08 RG 0.45 w 65.0 325.0 m 530.0 325.0 l S
+0.16 0.08 0.08 RG 0.45 w 65.0 390.0 m 530.0 390.0 l S
+0.16 0.08 0.08 RG 0.45 w 65.0 455.0 m 530.0 455.0 l S
+0.16 0.08 0.08 RG 0.45 w 65.0 520.0 m 530.0 520.0 l S
+0.38 0.02 0.02 rg 81.0 481.0 433.0 28.0 re f
+0.95 0.13 0.13 RG 0.7 w 81.0 481.0 433.0 28.0 re S
+0.04 0.25 0.1 rg 81.0 318.5 433.0 28.0 re f
+0.15 0.75 0.32 RG 0.7 w 81.0 318.5 433.0 28.0 re S
+0.86 0.08 0.08 RG 3 w 88.2 331.5 m 139.4 396.5 l S
+0.86 0.08 0.08 RG 3 w 139.4 396.5 m 190.6 357.5 l S
+0.86 0.08 0.08 RG 3 w 190.6 357.5 m 246.3 471.2 l S
+0.86 0.08 0.08 RG 3 w 246.3 471.2 m 302.1 432.2 l S
+0.86 0.08 0.08 RG 3 w 302.1 432.2 m 357.9 507.0 l S
+0.86 0.08 0.08 RG 3 w 357.9 507.0 m 413.8 455.0 l S
+0.86 0.08 0.08 RG 3 w 413.8 455.0 m 483.5 520.0 l S
+1 0.85 0.85 rg BT /F2 11 Tf 96.0 497.0 Td (RESISTANCE ZONE: price struggled here before) Tj ET
+0.86 1 0.88 rg BT /F2 11 Tf 96.0 318.0 Td (SUPPORT ZONE: price bounced here before) Tj ET
+1.0 0.94 0.94 rg 56.0 120.0 230.0 88.0 re f
+0.92 0.32 0.32 RG 1 w 56.0 120.0 230.0 88.0 re S
+0.86 0.08 0.08 rg 91.0 179.0 m 91.0 186.2 85.2 192.0 78.0 192.0 c 70.8 192.0 65.0 186.2 65.0 179.0 c 65.0 171.8 70.8 166.0 78.0 166.0 c 85.2 166.0 91.0 171.8 91.0 179.0 c f
+1 1 1 rg BT /F2 9.5 Tf 74.0 174.0 Td (S) Tj ET
+0.35 0.02 0.03 rg BT /F2 12.5 Tf 101.0 180.0 Td (Support) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 70.0 158.0 Td (A possible area to look for buyers.) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 70.0 145.5 Td (It can break, so risk still) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 70.0 133.0 Td (matters.) Tj ET
+1.0 0.94 0.94 rg 310.0 120.0 230.0 88.0 re f
+0.92 0.32 0.32 RG 1 w 310.0 120.0 230.0 88.0 re S
+0.86 0.08 0.08 rg 345.0 179.0 m 345.0 186.2 339.2 192.0 332.0 192.0 c 324.8 192.0 319.0 186.2 319.0 179.0 c 319.0 171.8 324.8 166.0 332.0 166.0 c 339.2 166.0 345.0 171.8 345.0 179.0 c f
+1 1 1 rg BT /F2 9.5 Tf 328.0 174.0 Td (R) Tj ET
+0.35 0.02 0.03 rg BT /F2 12.5 Tf 355.0 180.0 Td (Resistance) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 324.0 158.0 Td (A possible area to take profit,) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 324.0 145.5 Td (avoid chasing, or watch for) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 324.0 133.0 Td (rejection.) Tj ET
 endstream
 endobj
 16 0 obj
-<< /Type /Page /Parent 21 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 15 0 R >>
+<< /Type /Page /Parent 45 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 15 0 R >>
 endobj
 17 0 obj
-<< /Length 3675 >>
+<< /Length 2855 >>
 stream
 1 1 1 rg 0.0 0.0 595.0 842.0 re f
-0.86 0.1 0.1 rg 0.0 826.0 595.0 16.0 re f
-0.04 0.035 0.035 rg BT /F2 24 Tf 42.0 784.0 Td (7. Mistakes That Destroy Beginners) Tj ET
-0.42 0.32 0.32 rg BT /F1 10 Tf 42.0 760.0 Td (Avoiding these mistakes can be more valuable than finding another indicator.) Tj ET
-0.86 0.1 0.1 RG 1.2 w 42.0 746.0 m 553.0 746.0 l S
-1.0 0.94 0.94 rg 58.0 513.0 225.0 88.0 re f
-0.92 0.32 0.32 RG 1 w 58.0 513.0 225.0 88.0 re S
-0.86 0.1 0.1 rg 95.0 571.0 m 95.0 578.7 88.7 585.0 81.0 585.0 c 73.3 585.0 67.0 578.7 67.0 571.0 c 67.0 563.3 73.3 557.0 81.0 557.0 c 88.7 557.0 95.0 563.3 95.0 571.0 c f
-1 1 1 rg BT /F2 14 Tf 73.0 565.0 Td (X) Tj ET
-0.32 0.02 0.03 rg BT /F2 13 Tf 106.0 573.0 Td (FOMO buying) Tj ET
-0.09 0.06 0.06 rg BT /F1 9.5 Tf 72.0 549.0 Td (Jumping in after a huge green) Tj ET
-0.09 0.06 0.06 rg BT /F1 9.5 Tf 72.0 536.0 Td (candle.) Tj ET
-1.0 0.94 0.94 rg 312.0 513.0 225.0 88.0 re f
-0.92 0.32 0.32 RG 1 w 312.0 513.0 225.0 88.0 re S
-0.86 0.1 0.1 rg 349.0 571.0 m 349.0 578.7 342.7 585.0 335.0 585.0 c 327.3 585.0 321.0 578.7 321.0 571.0 c 321.0 563.3 327.3 557.0 335.0 557.0 c 342.7 557.0 349.0 563.3 349.0 571.0 c f
-1 1 1 rg BT /F2 14 Tf 327.0 565.0 Td (X) Tj ET
-0.32 0.02 0.03 rg BT /F2 13 Tf 360.0 573.0 Td (No stop-loss) Tj ET
-0.09 0.06 0.06 rg BT /F1 9.5 Tf 326.0 549.0 Td (Refusing to decide where you are) Tj ET
-0.09 0.06 0.06 rg BT /F1 9.5 Tf 326.0 536.0 Td (wrong.) Tj ET
-1.0 0.94 0.94 rg 58.0 388.0 225.0 88.0 re f
-0.92 0.32 0.32 RG 1 w 58.0 388.0 225.0 88.0 re S
-0.86 0.1 0.1 rg 95.0 446.0 m 95.0 453.7 88.7 460.0 81.0 460.0 c 73.3 460.0 67.0 453.7 67.0 446.0 c 67.0 438.3 73.3 432.0 81.0 432.0 c 88.7 432.0 95.0 438.3 95.0 446.0 c f
-1 1 1 rg BT /F2 14 Tf 73.0 440.0 Td (X) Tj ET
-0.32 0.02 0.03 rg BT /F2 13 Tf 106.0 448.0 Td (Too much size) Tj ET
-0.09 0.06 0.06 rg BT /F1 9.5 Tf 72.0 424.0 Td (Risking so much that one loss) Tj ET
-0.09 0.06 0.06 rg BT /F1 9.5 Tf 72.0 411.0 Td (hurts badly.) Tj ET
-1.0 0.94 0.94 rg 312.0 388.0 225.0 88.0 re f
-0.92 0.32 0.32 RG 1 w 312.0 388.0 225.0 88.0 re S
-0.86 0.1 0.1 rg 349.0 446.0 m 349.0 453.7 342.7 460.0 335.0 460.0 c 327.3 460.0 321.0 453.7 321.0 446.0 c 321.0 438.3 327.3 432.0 335.0 432.0 c 342.7 432.0 349.0 438.3 349.0 446.0 c f
-1 1 1 rg BT /F2 14 Tf 327.0 440.0 Td (X) Tj ET
-0.32 0.02 0.03 rg BT /F2 13 Tf 360.0 448.0 Td (Signal chasing) Tj ET
-0.09 0.06 0.06 rg BT /F1 9.5 Tf 326.0 424.0 Td (Blindly copying strangers) Tj ET
-0.09 0.06 0.06 rg BT /F1 9.5 Tf 326.0 411.0 Td (online.) Tj ET
-1.0 0.94 0.94 rg 58.0 263.0 225.0 88.0 re f
-0.92 0.32 0.32 RG 1 w 58.0 263.0 225.0 88.0 re S
-0.86 0.1 0.1 rg 95.0 321.0 m 95.0 328.7 88.7 335.0 81.0 335.0 c 73.3 335.0 67.0 328.7 67.0 321.0 c 67.0 313.3 73.3 307.0 81.0 307.0 c 88.7 307.0 95.0 313.3 95.0 321.0 c f
-1 1 1 rg BT /F2 14 Tf 73.0 315.0 Td (X) Tj ET
-0.32 0.02 0.03 rg BT /F2 13 Tf 106.0 323.0 Td (Revenge trading) Tj ET
-0.09 0.06 0.06 rg BT /F1 9.5 Tf 72.0 299.0 Td (Trying to win money back) Tj ET
-0.09 0.06 0.06 rg BT /F1 9.5 Tf 72.0 286.0 Td (immediately.) Tj ET
-1.0 0.94 0.94 rg 312.0 263.0 225.0 88.0 re f
-0.92 0.32 0.32 RG 1 w 312.0 263.0 225.0 88.0 re S
-0.86 0.1 0.1 rg 349.0 321.0 m 349.0 328.7 342.7 335.0 335.0 335.0 c 327.3 335.0 321.0 328.7 321.0 321.0 c 321.0 313.3 327.3 307.0 335.0 307.0 c 342.7 307.0 349.0 313.3 349.0 321.0 c f
-1 1 1 rg BT /F2 14 Tf 327.0 315.0 Td (X) Tj ET
-0.32 0.02 0.03 rg BT /F2 13 Tf 360.0 323.0 Td (Too many indicators) Tj ET
-0.09 0.06 0.06 rg BT /F1 9.5 Tf 326.0 299.0 Td (Making the chart so messy you) Tj ET
-0.09 0.06 0.06 rg BT /F1 9.5 Tf 326.0 286.0 Td (cannot think.) Tj ET
-0.32 0.02 0.03 rg BT /F2 17 Tf 75.0 102.0 Td (Remember: the tool supports learning. It does not remove risk.) Tj ET
+0.86 0.08 0.08 rg 0.0 826.0 595.0 16.0 re f
+0.04 0.035 0.035 rg BT /F2 23 Tf 42.0 784.0 Td (Trends: Up, Down, or Sideways?) Tj ET
+0.42 0.32 0.32 rg BT /F1 10 Tf 42.0 760.0 Td (Before entries, ask what the market is doing overall.) Tj ET
+0.86 0.08 0.08 RG 1.2 w 42.0 744.0 m 553.0 744.0 l S
+0.035 0.03 0.03 rg 52.0 440.0 240.0 160.0 re f
+0.75 0.12 0.12 RG 1 w 52.0 440.0 240.0 160.0 re S
+0.16 0.08 0.08 RG 0.45 w 52.0 472.0 m 292.0 472.0 l S
+0.16 0.08 0.08 RG 0.45 w 52.0 504.0 m 292.0 504.0 l S
+0.16 0.08 0.08 RG 0.45 w 52.0 536.0 m 292.0 536.0 l S
+0.16 0.08 0.08 RG 0.45 w 52.0 568.0 m 292.0 568.0 l S
+0.86 0.08 0.08 RG 3 w 71.2 480.0 m 116.8 515.2 l S
+0.86 0.08 0.08 RG 3 w 116.8 515.2 m 160.0 496.0 l S
+0.86 0.08 0.08 RG 3 w 160.0 496.0 m 205.6 548.8 l S
+0.86 0.08 0.08 RG 3 w 205.6 548.8 m 258.4 529.6 l S
+1 0.86 0.86 rg BT /F2 10.5 Tf 64.0 458.0 Td (Uptrend: higher highs + higher lows) Tj ET
+0.035 0.03 0.03 rg 303.0 440.0 240.0 160.0 re f
+0.75 0.12 0.12 RG 1 w 303.0 440.0 240.0 160.0 re S
+0.16 0.08 0.08 RG 0.45 w 303.0 472.0 m 543.0 472.0 l S
+0.16 0.08 0.08 RG 0.45 w 303.0 504.0 m 543.0 504.0 l S
+0.16 0.08 0.08 RG 0.45 w 303.0 536.0 m 543.0 536.0 l S
+0.16 0.08 0.08 RG 0.45 w 303.0 568.0 m 543.0 568.0 l S
+0.86 0.08 0.08 RG 3 w 322.2 552.0 m 367.8 512.0 l S
+0.86 0.08 0.08 RG 3 w 367.8 512.0 m 411.0 529.6 l S
+0.86 0.08 0.08 RG 3 w 411.0 529.6 m 456.6 484.8 l S
+0.86 0.08 0.08 RG 3 w 456.6 484.8 m 509.4 500.8 l S
+1 0.86 0.86 rg BT /F2 10.5 Tf 315.0 458.0 Td (Downtrend: lower highs + lower lows) Tj ET
+0.035 0.03 0.03 rg 52.0 235.0 491.0 160.0 re f
+0.75 0.12 0.12 RG 1 w 52.0 235.0 491.0 160.0 re S
+0.16 0.08 0.08 RG 0.45 w 52.0 267.0 m 543.0 267.0 l S
+0.16 0.08 0.08 RG 0.45 w 52.0 299.0 m 543.0 299.0 l S
+0.16 0.08 0.08 RG 0.45 w 52.0 331.0 m 543.0 331.0 l S
+0.16 0.08 0.08 RG 0.45 w 52.0 363.0 m 543.0 363.0 l S
+0.86 0.08 0.08 RG 3 w 86.4 275.0 m 150.2 347.0 l S
+0.86 0.08 0.08 RG 3 w 150.2 347.0 m 214.0 279.8 l S
+0.86 0.08 0.08 RG 3 w 214.0 279.8 m 277.9 343.8 l S
+0.86 0.08 0.08 RG 3 w 277.9 343.8 m 341.7 276.6 l S
+0.86 0.08 0.08 RG 3 w 341.7 276.6 m 405.5 347.0 l S
+0.86 0.08 0.08 RG 3 w 405.5 347.0 m 474.3 284.6 l S
+1 0.86 0.86 rg BT /F2 10.5 Tf 64.0 253.0 Td (Range: bouncing between zones) Tj ET
+1.0 0.94 0.94 rg 56.0 96.0 483.0 92.0 re f
+0.92 0.32 0.32 RG 1 w 56.0 96.0 483.0 92.0 re S
+0.86 0.08 0.08 rg 91.0 159.0 m 91.0 166.2 85.2 172.0 78.0 172.0 c 70.8 172.0 65.0 166.2 65.0 159.0 c 65.0 151.8 70.8 146.0 78.0 146.0 c 85.2 146.0 91.0 151.8 91.0 159.0 c f
+1 1 1 rg BT /F2 9.5 Tf 74.0 154.0 Td (!) Tj ET
+0.35 0.02 0.03 rg BT /F2 12.5 Tf 101.0 160.0 Td (Beginner rule) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 70.0 138.0 Td (If you cannot tell whether the chart is trending or ranging, do not trade yet.) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 70.0 125.5 Td (First label the market condition.) Tj ET
 endstream
 endobj
 18 0 obj
-<< /Type /Page /Parent 21 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 17 0 R >>
+<< /Type /Page /Parent 45 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 17 0 R >>
 endobj
 19 0 obj
-<< /Length 906 >>
+<< /Length 3866 >>
 stream
-0.04 0.035 0.035 rg 0.0 0.0 595.0 842.0 re f
-1 1 1 rg BT /F2 30 Tf 60.0 630.0 Td (You do not need magic signals.) Tj ET
-1 0.78 0.78 rg BT /F2 30 Tf 60.0 590.0 Td (You need a repeatable process.) Tj ET
-1 1 1 rg BT /F1 14 Tf 60.0 525.0 Td (Felix Crypto Edge is built to help beginners slow down,) Tj ET
-1 1 1 rg BT /F1 14 Tf 60.0 505.0 Td (read charts clearly, understand risk, and learn why a) Tj ET
-1 1 1 rg BT /F1 14 Tf 60.0 485.0 Td (trade setup might make sense.) Tj ET
-0.12 0.02 0.02 rg 60.0 310.0 475.0 105.0 re f
-0.9 0.1 0.1 RG 1 w 60.0 310.0 475.0 105.0 re S
-1 1 1 rg BT /F2 18 Tf 82.0 374.0 Td (Education only. Not financial advice.) Tj ET
-1 0.82 0.82 rg BT /F1 12 Tf 82.0 345.0 Td (Crypto trading is risky. You can lose money. Always) Tj ET
-1 0.82 0.82 rg BT /F1 12 Tf 82.0 328.0 Td (use your own judgment and manage risk.) Tj ET
-1 0.78 0.78 rg BT /F2 18 Tf 60.0 110.0 Td (Felix Crypto Edge) Tj ET
+1 1 1 rg 0.0 0.0 595.0 842.0 re f
+0.86 0.08 0.08 rg 0.0 826.0 595.0 16.0 re f
+0.04 0.035 0.035 rg BT /F2 23 Tf 42.0 784.0 Td (Timeframes Without Confusion) Tj ET
+0.42 0.32 0.32 rg BT /F1 10 Tf 42.0 760.0 Td (Start big, then zoom in. Do not jump around until you find an excuse to enter.) Tj ET
+0.86 0.08 0.08 RG 1.2 w 42.0 744.0 m 553.0 744.0 l S
+1.0 0.94 0.94 rg 58.0 500.0 145.0 130.0 re f
+0.92 0.32 0.32 RG 1 w 58.0 500.0 145.0 130.0 re S
+0.86 0.08 0.08 rg 93.0 601.0 m 93.0 608.2 87.2 614.0 80.0 614.0 c 72.8 614.0 67.0 608.2 67.0 601.0 c 67.0 593.8 72.8 588.0 80.0 588.0 c 87.2 588.0 93.0 593.8 93.0 601.0 c f
+1 1 1 rg BT /F2 9.5 Tf 76.0 596.0 Td (1) Tj ET
+0.35 0.02 0.03 rg BT /F2 12.5 Tf 103.0 602.0 Td (Higher timeframe) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 72.0 580.0 Td (Daily or 4-hour. Use) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 72.0 567.5 Td (this for the big) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 72.0 555.0 Td (direction: uptrend,) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 72.0 542.5 Td (downtrend, or range.) Tj ET
+1.0 0.94 0.94 rg 225.0 500.0 145.0 130.0 re f
+0.92 0.32 0.32 RG 1 w 225.0 500.0 145.0 130.0 re S
+0.86 0.08 0.08 rg 260.0 601.0 m 260.0 608.2 254.2 614.0 247.0 614.0 c 239.8 614.0 234.0 608.2 234.0 601.0 c 234.0 593.8 239.8 588.0 247.0 588.0 c 254.2 588.0 260.0 593.8 260.0 601.0 c f
+1 1 1 rg BT /F2 9.5 Tf 243.0 596.0 Td (2) Tj ET
+0.35 0.02 0.03 rg BT /F2 12.5 Tf 270.0 602.0 Td (Planning timeframe) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 239.0 580.0 Td (4-hour or 1-hour.) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 239.0 567.5 Td (Mark zones and) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 239.0 555.0 Td (decide where a setup) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 239.0 542.5 Td (would make sense.) Tj ET
+1.0 0.94 0.94 rg 392.0 500.0 145.0 130.0 re f
+0.92 0.32 0.32 RG 1 w 392.0 500.0 145.0 130.0 re S
+0.86 0.08 0.08 rg 427.0 601.0 m 427.0 608.2 421.2 614.0 414.0 614.0 c 406.8 614.0 401.0 608.2 401.0 601.0 c 401.0 593.8 406.8 588.0 414.0 588.0 c 421.2 588.0 427.0 593.8 427.0 601.0 c f
+1 1 1 rg BT /F2 9.5 Tf 410.0 596.0 Td (3) Tj ET
+0.35 0.02 0.03 rg BT /F2 12.5 Tf 437.0 602.0 Td (Entry timeframe) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 406.0 580.0 Td (1-hour or 15-minute.) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 406.0 567.5 Td (Use only after the) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 406.0 555.0 Td (bigger plan is) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 406.0 542.5 Td (already clear.) Tj ET
+0.86 0.08 0.08 RG 3 w 203.0 565.0 m 225.0 565.0 l S
+0.86 0.08 0.08 RG 3 w 370.0 565.0 m 392.0 565.0 l S
+1.0 0.94 0.94 rg 70.0 265.0 455.0 115.0 re f
+0.92 0.32 0.32 RG 1 w 70.0 265.0 455.0 115.0 re S
+0.86 0.08 0.08 rg 105.0 351.0 m 105.0 358.2 99.2 364.0 92.0 364.0 c 84.8 364.0 79.0 358.2 79.0 351.0 c 79.0 343.8 84.8 338.0 92.0 338.0 c 99.2 338.0 105.0 343.8 105.0 351.0 c f
+1 1 1 rg BT /F2 9.5 Tf 88.0 346.0 Td (X) Tj ET
+0.35 0.02 0.03 rg BT /F2 12.5 Tf 115.0 352.0 Td (Bad habit) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 84.0 330.0 Td (A beginner sees a bearish daily chart, then zooms into a tiny 5-minute) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 84.0 317.5 Td (bounce and buys anyway. That is not analysis. That is searching for) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 84.0 305.0 Td (permission.) Tj ET
+1.0 0.94 0.94 rg 70.0 120.0 455.0 100.0 re f
+0.92 0.32 0.32 RG 1 w 70.0 120.0 455.0 100.0 re S
+0.86 0.08 0.08 rg 105.0 191.0 m 105.0 198.2 99.2 204.0 92.0 204.0 c 84.8 204.0 79.0 198.2 79.0 191.0 c 79.0 183.8 84.8 178.0 92.0 178.0 c 99.2 178.0 105.0 183.8 105.0 191.0 c f
+1 1 1 rg BT /F2 9.5 Tf 85.0 186.0 Td (OK) Tj ET
+0.35 0.02 0.03 rg BT /F2 12.5 Tf 115.0 192.0 Td (Simple routine) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 84.0 170.0 Td (Check the daily or 4-hour first. If the big picture is unclear, stop. If) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 84.0 157.5 Td (it is clear, mark zones and then consider lower-timeframe confirmation.) Tj ET
 endstream
 endobj
 20 0 obj
-<< /Type /Page /Parent 21 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 19 0 R >>
+<< /Type /Page /Parent 45 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 19 0 R >>
 endobj
 21 0 obj
-<< /Type /Pages /Kids [4 0 R 6 0 R 8 0 R 10 0 R 12 0 R 14 0 R 16 0 R 18 0 R 20 0 R] /Count 9 >>
+<< /Length 3004 >>
+stream
+1 1 1 rg 0.0 0.0 595.0 842.0 re f
+0.86 0.08 0.08 rg 0.0 826.0 595.0 16.0 re f
+0.04 0.035 0.035 rg BT /F2 23 Tf 42.0 784.0 Td (Indicators: Helpful, Not Magic) Tj ET
+0.42 0.32 0.32 rg BT /F1 10 Tf 42.0 760.0 Td (Volume, moving averages, and RSI can support a plan, but they should not) Tj ET
+0.42 0.32 0.32 rg BT /F1 10 Tf 42.0 746.0 Td (replace market structure.) Tj ET
+0.86 0.08 0.08 RG 1.2 w 42.0 744.0 m 553.0 744.0 l S
+1.0 0.94 0.94 rg 58.0 515.0 480.0 90.0 re f
+0.92 0.32 0.32 RG 1 w 58.0 515.0 480.0 90.0 re S
+0.86 0.08 0.08 rg 93.0 576.0 m 93.0 583.2 87.2 589.0 80.0 589.0 c 72.8 589.0 67.0 583.2 67.0 576.0 c 67.0 568.8 72.8 563.0 80.0 563.0 c 87.2 563.0 93.0 568.8 93.0 576.0 c f
+1 1 1 rg BT /F2 9.5 Tf 76.0 571.0 Td (V) Tj ET
+0.35 0.02 0.03 rg BT /F2 12.5 Tf 103.0 577.0 Td (Volume) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 72.0 555.0 Td (Shows how much trading happened. A breakout with stronger volume can be more) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 72.0 542.5 Td (meaningful than a weak, low-volume breakout.) Tj ET
+1.0 0.94 0.94 rg 58.0 390.0 480.0 90.0 re f
+0.92 0.32 0.32 RG 1 w 58.0 390.0 480.0 90.0 re S
+0.86 0.08 0.08 rg 93.0 451.0 m 93.0 458.2 87.2 464.0 80.0 464.0 c 72.8 464.0 67.0 458.2 67.0 451.0 c 67.0 443.8 72.8 438.0 80.0 438.0 c 87.2 438.0 93.0 443.8 93.0 451.0 c f
+1 1 1 rg BT /F2 9.5 Tf 73.0 446.0 Td (MA) Tj ET
+0.35 0.02 0.03 rg BT /F2 12.5 Tf 103.0 452.0 Td (Moving averages) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 72.0 430.0 Td (Smooth price. Price above major averages can suggest bullish structure; below) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 72.0 417.5 Td (them can suggest bearish structure.) Tj ET
+1.0 0.94 0.94 rg 58.0 265.0 480.0 90.0 re f
+0.92 0.32 0.32 RG 1 w 58.0 265.0 480.0 90.0 re S
+0.86 0.08 0.08 rg 93.0 326.0 m 93.0 333.2 87.2 339.0 80.0 339.0 c 72.8 339.0 67.0 333.2 67.0 326.0 c 67.0 318.8 72.8 313.0 80.0 313.0 c 87.2 313.0 93.0 318.8 93.0 326.0 c f
+1 1 1 rg BT /F2 9.5 Tf 76.0 321.0 Td (R) Tj ET
+0.35 0.02 0.03 rg BT /F2 12.5 Tf 103.0 327.0 Td (RSI) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 72.0 305.0 Td (Measures momentum. Above 70 can be overextended; below 30 can be oversold.) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 72.0 292.5 Td (Neither is a standalone buy or sell signal.) Tj ET
+0.035 0.03 0.03 rg 95.0 92.0 405.0 120.0 re f
+0.75 0.12 0.12 RG 1 w 95.0 92.0 405.0 120.0 re S
+0.16 0.08 0.08 RG 0.45 w 95.0 116.0 m 500.0 116.0 l S
+0.16 0.08 0.08 RG 0.45 w 95.0 140.0 m 500.0 140.0 l S
+0.16 0.08 0.08 RG 0.45 w 95.0 164.0 m 500.0 164.0 l S
+0.16 0.08 0.08 RG 0.45 w 95.0 188.0 m 500.0 188.0 l S
+0.86 0.08 0.08 RG 3 w 107.2 122.0 m 159.8 137.6 l S
+0.86 0.08 0.08 RG 3 w 159.8 137.6 m 216.5 134.0 l S
+0.86 0.08 0.08 RG 3 w 216.5 134.0 m 273.2 161.6 l S
+0.86 0.08 0.08 RG 3 w 273.2 161.6 m 329.9 166.4 l S
+0.86 0.08 0.08 RG 3 w 329.9 166.4 m 386.6 182.0 l S
+0.86 0.08 0.08 RG 3 w 386.6 182.0 m 459.5 171.2 l S
+0.93 0.58 0.08 RG 2 w 110.0 132.0 m 485.0 172.0 l S
+1 0.84 0.84 rg BT /F2 10 Tf 112.0 105.0 Td (Price line + simple moving average example) Tj ET
+endstream
 endobj
 22 0 obj
-<< /Type /Catalog /Pages 21 0 R >>
+<< /Type /Page /Parent 45 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 21 0 R >>
+endobj
+23 0 obj
+<< /Length 2987 >>
+stream
+1 1 1 rg 0.0 0.0 595.0 842.0 re f
+0.86 0.08 0.08 rg 0.0 826.0 595.0 16.0 re f
+0.04 0.035 0.035 rg BT /F2 23 Tf 42.0 784.0 Td (The Most Important Part: Risk) Tj ET
+0.42 0.32 0.32 rg BT /F1 10 Tf 42.0 760.0 Td (Beginners obsess over entries. Survivors obsess over how much they can lose if) Tj ET
+0.42 0.32 0.32 rg BT /F1 10 Tf 42.0 746.0 Td (wrong.) Tj ET
+0.86 0.08 0.08 RG 1.2 w 42.0 744.0 m 553.0 744.0 l S
+0.035 0.03 0.03 rg 70.0 315.0 455.0 245.0 re f
+0.75 0.12 0.12 RG 1 w 70.0 315.0 455.0 245.0 re S
+0.16 0.08 0.08 RG 0.45 w 70.0 364.0 m 525.0 364.0 l S
+0.16 0.08 0.08 RG 0.45 w 70.0 413.0 m 525.0 413.0 l S
+0.16 0.08 0.08 RG 0.45 w 70.0 462.0 m 525.0 462.0 l S
+0.16 0.08 0.08 RG 0.45 w 70.0 511.0 m 525.0 511.0 l S
+0.86 0.08 0.08 RG 3 w 92.8 364.0 m 170.1 403.2 l S
+0.86 0.08 0.08 RG 3 w 170.1 403.2 m 242.9 393.4 l S
+0.86 0.08 0.08 RG 3 w 242.9 393.4 m 324.8 449.8 l S
+0.86 0.08 0.08 RG 3 w 324.8 449.8 m 406.7 491.4 l S
+0.86 0.08 0.08 RG 3 w 406.7 491.4 m 488.6 469.4 l S
+0.9 0.9 0.9 RG 1 w 95.0 405.0 m 500.0 405.0 l S
+1 1 1 rg BT /F2 11 Tf 420.0 413.0 Td (Entry) Tj ET
+0.15 0.75 0.32 RG 2 w 95.0 355.0 m 500.0 355.0 l S
+0.8 1 0.84 rg BT /F2 11 Tf 395.0 363.0 Td (Stop-loss) Tj ET
+1 0.4 0.4 RG 2 w 95.0 515.0 m 500.0 515.0 l S
+1 0.84 0.84 rg BT /F2 11 Tf 412.0 523.0 Td (Target) Tj ET
+1.0 0.94 0.94 rg 56.0 205.0 230.0 75.0 re f
+0.92 0.32 0.32 RG 1 w 56.0 205.0 230.0 75.0 re S
+0.86 0.08 0.08 rg 91.0 251.0 m 91.0 258.2 85.2 264.0 78.0 264.0 c 70.8 264.0 65.0 258.2 65.0 251.0 c 65.0 243.8 70.8 238.0 78.0 238.0 c 85.2 238.0 91.0 243.8 91.0 251.0 c f
+1 1 1 rg BT /F2 9.5 Tf 68.0 246.0 Td (EUR) Tj ET
+0.35 0.02 0.03 rg BT /F2 12.5 Tf 101.0 252.0 Td (Example) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 70.0 230.0 Td (Account: EUR 1,000. Risk: 1%.) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 70.0 217.5 Td (Maximum planned loss: EUR 10.) Tj ET
+1.0 0.94 0.94 rg 310.0 205.0 230.0 75.0 re f
+0.92 0.32 0.32 RG 1 w 310.0 205.0 230.0 75.0 re S
+0.86 0.08 0.08 rg 345.0 251.0 m 345.0 258.2 339.2 264.0 332.0 264.0 c 324.8 264.0 319.0 258.2 319.0 251.0 c 319.0 243.8 324.8 238.0 332.0 238.0 c 339.2 238.0 345.0 243.8 345.0 251.0 c f
+1 1 1 rg BT /F2 9.5 Tf 328.0 246.0 Td (!) Tj ET
+0.35 0.02 0.03 rg BT /F2 12.5 Tf 355.0 252.0 Td (Key idea) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 324.0 230.0 Td (The stop-loss helps decide how big) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 324.0 217.5 Td (the position can be.) Tj ET
+1.0 0.94 0.94 rg 56.0 92.0 483.0 80.0 re f
+0.92 0.32 0.32 RG 1 w 56.0 92.0 483.0 80.0 re S
+0.86 0.08 0.08 rg 91.0 143.0 m 91.0 150.2 85.2 156.0 78.0 156.0 c 70.8 156.0 65.0 150.2 65.0 143.0 c 65.0 135.8 70.8 130.0 78.0 130.0 c 85.2 130.0 91.0 135.8 91.0 143.0 c f
+1 1 1 rg BT /F2 9.5 Tf 71.0 138.0 Td (OK) Tj ET
+0.35 0.02 0.03 rg BT /F2 12.5 Tf 101.0 144.0 Td (Rule) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 70.0 122.0 Td (A good trade is not one that must win. A good trade is one where the loss is) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 70.0 109.5 Td (controlled before you enter.) Tj ET
+endstream
+endobj
+24 0 obj
+<< /Type /Page /Parent 45 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 23 0 R >>
+endobj
+25 0 obj
+<< /Length 2353 >>
+stream
+1 1 1 rg 0.0 0.0 595.0 842.0 re f
+0.86 0.08 0.08 rg 0.0 826.0 595.0 16.0 re f
+0.04 0.035 0.035 rg BT /F2 23 Tf 42.0 784.0 Td (Position Sizing Made Simple) Tj ET
+0.42 0.32 0.32 rg BT /F1 10 Tf 42.0 760.0 Td (Risk is money, not feelings. Decide the maximum planned loss before the trade.) Tj ET
+0.86 0.08 0.08 RG 1.2 w 42.0 744.0 m 553.0 744.0 l S
+1.0 0.94 0.94 rg 60.0 545.0 475.0 90.0 re f
+0.92 0.32 0.32 RG 1 w 60.0 545.0 475.0 90.0 re S
+0.86 0.08 0.08 rg 95.0 606.0 m 95.0 613.2 89.2 619.0 82.0 619.0 c 74.8 619.0 69.0 613.2 69.0 606.0 c 69.0 598.8 74.8 593.0 82.0 593.0 c 89.2 593.0 95.0 598.8 95.0 606.0 c f
+1 1 1 rg BT /F2 9.5 Tf 78.0 601.0 Td (1) Tj ET
+0.35 0.02 0.03 rg BT /F2 12.5 Tf 105.0 607.0 Td (Step 1: choose account risk) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 74.0 585.0 Td (Example: EUR 1,000 account and 1% risk. That means the maximum planned loss is) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 74.0 572.5 Td (EUR 10.) Tj ET
+1.0 0.94 0.94 rg 60.0 420.0 475.0 90.0 re f
+0.92 0.32 0.32 RG 1 w 60.0 420.0 475.0 90.0 re S
+0.86 0.08 0.08 rg 95.0 481.0 m 95.0 488.2 89.2 494.0 82.0 494.0 c 74.8 494.0 69.0 488.2 69.0 481.0 c 69.0 473.8 74.8 468.0 82.0 468.0 c 89.2 468.0 95.0 473.8 95.0 481.0 c f
+1 1 1 rg BT /F2 9.5 Tf 78.0 476.0 Td (2) Tj ET
+0.35 0.02 0.03 rg BT /F2 12.5 Tf 105.0 482.0 Td (Step 2: measure stop distance) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 74.0 460.0 Td (If entry is EUR 100 and stop-loss is EUR 95, the stop distance is EUR 5 per) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 74.0 447.5 Td (coin/token.) Tj ET
+1.0 0.94 0.94 rg 60.0 295.0 475.0 90.0 re f
+0.92 0.32 0.32 RG 1 w 60.0 295.0 475.0 90.0 re S
+0.86 0.08 0.08 rg 95.0 356.0 m 95.0 363.2 89.2 369.0 82.0 369.0 c 74.8 369.0 69.0 363.2 69.0 356.0 c 69.0 348.8 74.8 343.0 82.0 343.0 c 89.2 343.0 95.0 348.8 95.0 356.0 c f
+1 1 1 rg BT /F2 9.5 Tf 78.0 351.0 Td (3) Tj ET
+0.35 0.02 0.03 rg BT /F2 12.5 Tf 105.0 357.0 Td (Step 3: calculate size) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 74.0 335.0 Td (Position size = money risked / stop distance. EUR 10 / EUR 5 = 2 units.) Tj ET
+0.08 0.02 0.025 rg 85.0 135.0 425.0 80.0 re f
+0.9 0.1 0.1 RG 1 w 85.0 135.0 425.0 80.0 re S
+1 1 1 rg BT /F2 14 Tf 110.0 178.0 Td (Formula: position size = money risked / stop distance) Tj ET
+1 0.82 0.82 rg BT /F1 11 Tf 110.0 153.0 Td (Smaller risk keeps your brain calmer and your account alive.) Tj ET
+endstream
+endobj
+26 0 obj
+<< /Type /Page /Parent 45 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 25 0 R >>
+endobj
+27 0 obj
+<< /Length 3259 >>
+stream
+1 1 1 rg 0.0 0.0 595.0 842.0 re f
+0.86 0.08 0.08 rg 0.0 826.0 595.0 16.0 re f
+0.04 0.035 0.035 rg BT /F2 23 Tf 42.0 784.0 Td (Example: A Planned Long Setup) Tj ET
+0.42 0.32 0.32 rg BT /F1 10 Tf 42.0 760.0 Td (Fictional and simplified. The point is the structure, not a prediction.) Tj ET
+0.86 0.08 0.08 RG 1.2 w 42.0 744.0 m 553.0 744.0 l S
+0.035 0.03 0.03 rg 62.0 345.0 470.0 250.0 re f
+0.75 0.12 0.12 RG 1 w 62.0 345.0 470.0 250.0 re S
+0.16 0.08 0.08 RG 0.45 w 62.0 395.0 m 532.0 395.0 l S
+0.16 0.08 0.08 RG 0.45 w 62.0 445.0 m 532.0 445.0 l S
+0.16 0.08 0.08 RG 0.45 w 62.0 495.0 m 532.0 495.0 l S
+0.16 0.08 0.08 RG 0.45 w 62.0 545.0 m 532.0 545.0 l S
+0.38 0.02 0.02 rg 78.0 515.0 438.0 28.0 re f
+0.95 0.13 0.13 RG 0.7 w 78.0 515.0 438.0 28.0 re S
+0.04 0.25 0.1 rg 78.0 390.0 438.0 28.0 re f
+0.15 0.75 0.32 RG 0.7 w 78.0 390.0 438.0 28.0 re S
+0.86 0.08 0.08 RG 3 w 80.8 395.0 m 137.2 452.5 l S
+0.86 0.08 0.08 RG 3 w 137.2 452.5 m 193.6 425.0 l S
+0.86 0.08 0.08 RG 3 w 193.6 425.0 m 250.0 485.0 l S
+0.86 0.08 0.08 RG 3 w 250.0 485.0 m 306.4 460.0 l S
+0.86 0.08 0.08 RG 3 w 306.4 460.0 m 362.8 520.0 l S
+0.86 0.08 0.08 RG 3 w 362.8 520.0 m 419.2 482.5 l S
+0.86 0.08 0.08 RG 3 w 419.2 482.5 m 485.0 545.0 l S
+1 0.84 0.84 rg BT /F2 10 Tf 90.0 512.0 Td (Target near next resistance) Tj ET
+0.86 1 0.88 rg BT /F2 10 Tf 90.0 396.0 Td (Pullback into support watch zone) Tj ET
+0.86 0.08 0.08 rg 81.0 285.0 m 81.0 291.1 76.1 296.0 70.0 296.0 c 63.9 296.0 59.0 291.1 59.0 285.0 c 59.0 278.9 63.9 274.0 70.0 274.0 c 76.1 274.0 81.0 278.9 81.0 285.0 c f
+1 1 1 rg BT /F2 8 Tf 66.0 281.0 Td (1) Tj ET
+0.09 0.06 0.06 rg BT /F2 10.5 Tf 94.0 290.0 Td (4H trend is up) Tj ET
+0.86 0.08 0.08 rg 81.0 227.0 m 81.0 233.1 76.1 238.0 70.0 238.0 c 63.9 238.0 59.0 233.1 59.0 227.0 c 59.0 220.9 63.9 216.0 70.0 216.0 c 76.1 216.0 81.0 220.9 81.0 227.0 c f
+1 1 1 rg BT /F2 8 Tf 66.0 223.0 Td (2) Tj ET
+0.09 0.06 0.06 rg BT /F2 10.5 Tf 94.0 232.0 Td (Price pulls back to support) Tj ET
+0.86 0.08 0.08 rg 81.0 169.0 m 81.0 175.1 76.1 180.0 70.0 180.0 c 63.9 180.0 59.0 175.1 59.0 169.0 c 59.0 162.9 63.9 158.0 70.0 158.0 c 76.1 158.0 81.0 162.9 81.0 169.0 c f
+1 1 1 rg BT /F2 8 Tf 66.0 165.0 Td (3) Tj ET
+0.09 0.06 0.06 rg BT /F2 10.5 Tf 94.0 174.0 Td (Candle rejects and closes) Tj ET
+0.09 0.06 0.06 rg BT /F2 10.5 Tf 94.0 161.0 Td (above zone) Tj ET
+0.86 0.08 0.08 rg 331.0 285.0 m 331.0 291.1 326.1 296.0 320.0 296.0 c 313.9 296.0 309.0 291.1 309.0 285.0 c 309.0 278.9 313.9 274.0 320.0 274.0 c 326.1 274.0 331.0 278.9 331.0 285.0 c f
+1 1 1 rg BT /F2 8 Tf 316.0 281.0 Td (4) Tj ET
+0.09 0.06 0.06 rg BT /F2 10.5 Tf 344.0 290.0 Td (Stop goes below the zone) Tj ET
+0.86 0.08 0.08 rg 331.0 227.0 m 331.0 233.1 326.1 238.0 320.0 238.0 c 313.9 238.0 309.0 233.1 309.0 227.0 c 309.0 220.9 313.9 216.0 320.0 216.0 c 326.1 216.0 331.0 220.9 331.0 227.0 c f
+1 1 1 rg BT /F2 8 Tf 316.0 223.0 Td (5) Tj ET
+0.09 0.06 0.06 rg BT /F2 10.5 Tf 344.0 232.0 Td (Target is next resistance) Tj ET
+0.86 0.08 0.08 rg 331.0 169.0 m 331.0 175.1 326.1 180.0 320.0 180.0 c 313.9 180.0 309.0 175.1 309.0 169.0 c 309.0 162.9 313.9 158.0 320.0 158.0 c 326.1 158.0 331.0 162.9 331.0 169.0 c f
+1 1 1 rg BT /F2 8 Tf 316.0 165.0 Td (6) Tj ET
+0.09 0.06 0.06 rg BT /F2 10.5 Tf 344.0 174.0 Td (Risk is limited to 1%) Tj ET
+endstream
+endobj
+28 0 obj
+<< /Type /Page /Parent 45 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 27 0 R >>
+endobj
+29 0 obj
+<< /Length 4489 >>
+stream
+1 1 1 rg 0.0 0.0 595.0 842.0 re f
+0.86 0.08 0.08 rg 0.0 826.0 595.0 16.0 re f
+0.04 0.035 0.035 rg BT /F2 23 Tf 42.0 784.0 Td (Example: When to Skip a Trade) Tj ET
+0.42 0.32 0.32 rg BT /F1 10 Tf 42.0 760.0 Td (A missed trade is not a loss. A forced trade can become one.) Tj ET
+0.86 0.08 0.08 RG 1.2 w 42.0 744.0 m 553.0 744.0 l S
+1.0 0.94 0.94 rg 58.0 495.0 225.0 105.0 re f
+0.92 0.32 0.32 RG 1 w 58.0 495.0 225.0 105.0 re S
+0.86 0.08 0.08 rg 93.0 571.0 m 93.0 578.2 87.2 584.0 80.0 584.0 c 72.8 584.0 67.0 578.2 67.0 571.0 c 67.0 563.8 72.8 558.0 80.0 558.0 c 87.2 558.0 93.0 563.8 93.0 571.0 c f
+1 1 1 rg BT /F2 9.5 Tf 76.0 566.0 Td (1) Tj ET
+0.35 0.02 0.03 rg BT /F2 12.5 Tf 103.0 572.0 Td (Price already pumped) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 72.0 550.0 Td (If you are buying only because a) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 72.0 537.5 Td (huge candle happened, you are) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 72.0 525.0 Td (probably late.) Tj ET
+1.0 0.94 0.94 rg 312.0 495.0 225.0 105.0 re f
+0.92 0.32 0.32 RG 1 w 312.0 495.0 225.0 105.0 re S
+0.86 0.08 0.08 rg 347.0 571.0 m 347.0 578.2 341.2 584.0 334.0 584.0 c 326.8 584.0 321.0 578.2 321.0 571.0 c 321.0 563.8 326.8 558.0 334.0 558.0 c 341.2 558.0 347.0 563.8 347.0 571.0 c f
+1 1 1 rg BT /F2 9.5 Tf 330.0 566.0 Td (2) Tj ET
+0.35 0.02 0.03 rg BT /F2 12.5 Tf 357.0 572.0 Td (No clear level) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 326.0 550.0 Td (If you cannot identify support,) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 326.0 537.5 Td (resistance, or invalidation, there) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 326.0 525.0 Td (is no plan.) Tj ET
+1.0 0.94 0.94 rg 58.0 353.0 225.0 105.0 re f
+0.92 0.32 0.32 RG 1 w 58.0 353.0 225.0 105.0 re S
+0.86 0.08 0.08 rg 93.0 429.0 m 93.0 436.2 87.2 442.0 80.0 442.0 c 72.8 442.0 67.0 436.2 67.0 429.0 c 67.0 421.8 72.8 416.0 80.0 416.0 c 87.2 416.0 93.0 421.8 93.0 429.0 c f
+1 1 1 rg BT /F2 9.5 Tf 76.0 424.0 Td (3) Tj ET
+0.35 0.02 0.03 rg BT /F2 12.5 Tf 103.0 430.0 Td (Bad risk/reward) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 72.0 408.0 Td (If the stop is far and the target) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 72.0 395.5 Td (is close, the setup may not be) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 72.0 383.0 Td (worth it.) Tj ET
+1.0 0.94 0.94 rg 312.0 353.0 225.0 105.0 re f
+0.92 0.32 0.32 RG 1 w 312.0 353.0 225.0 105.0 re S
+0.86 0.08 0.08 rg 347.0 429.0 m 347.0 436.2 341.2 442.0 334.0 442.0 c 326.8 442.0 321.0 436.2 321.0 429.0 c 321.0 421.8 326.8 416.0 334.0 416.0 c 341.2 416.0 347.0 421.8 347.0 429.0 c f
+1 1 1 rg BT /F2 9.5 Tf 330.0 424.0 Td (4) Tj ET
+0.35 0.02 0.03 rg BT /F2 12.5 Tf 357.0 430.0 Td (Emotional state) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 326.0 408.0 Td (If you are angry, scared, or) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 326.0 395.5 Td (desperate to win back money, step) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 326.0 383.0 Td (away.) Tj ET
+1.0 0.94 0.94 rg 58.0 211.0 225.0 105.0 re f
+0.92 0.32 0.32 RG 1 w 58.0 211.0 225.0 105.0 re S
+0.86 0.08 0.08 rg 93.0 287.0 m 93.0 294.2 87.2 300.0 80.0 300.0 c 72.8 300.0 67.0 294.2 67.0 287.0 c 67.0 279.8 72.8 274.0 80.0 274.0 c 87.2 274.0 93.0 279.8 93.0 287.0 c f
+1 1 1 rg BT /F2 9.5 Tf 76.0 282.0 Td (5) Tj ET
+0.35 0.02 0.03 rg BT /F2 12.5 Tf 103.0 288.0 Td (Social signal only) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 72.0 266.0 Td (Copying strangers online without) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 72.0 253.5 Td (your own plan is not a process.) Tj ET
+1.0 0.94 0.94 rg 312.0 211.0 225.0 105.0 re f
+0.92 0.32 0.32 RG 1 w 312.0 211.0 225.0 105.0 re S
+0.86 0.08 0.08 rg 347.0 287.0 m 347.0 294.2 341.2 300.0 334.0 300.0 c 326.8 300.0 321.0 294.2 321.0 287.0 c 321.0 279.8 326.8 274.0 334.0 274.0 c 341.2 274.0 347.0 279.8 347.0 287.0 c f
+1 1 1 rg BT /F2 9.5 Tf 330.0 282.0 Td (6) Tj ET
+0.35 0.02 0.03 rg BT /F2 12.5 Tf 357.0 288.0 Td (Too much size) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 326.0 266.0 Td (If the loss would hurt badly, the) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 326.0 253.5 Td (position is too big.) Tj ET
+1.0 0.88 0.88 rg 58.0 92.0 480.0 80.0 re f
+0.92 0.32 0.32 RG 1 w 58.0 92.0 480.0 80.0 re S
+0.86 0.08 0.08 rg 93.0 143.0 m 93.0 150.2 87.2 156.0 80.0 156.0 c 72.8 156.0 67.0 150.2 67.0 143.0 c 67.0 135.8 72.8 130.0 80.0 130.0 c 87.2 130.0 93.0 135.8 93.0 143.0 c f
+1 1 1 rg BT /F2 9.5 Tf 73.0 138.0 Td (OK) Tj ET
+0.35 0.02 0.03 rg BT /F2 12.5 Tf 103.0 144.0 Td (Dummy rule) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 72.0 122.0 Td (Skipping bad trades is one of the fastest ways to improve.) Tj ET
+endstream
+endobj
+30 0 obj
+<< /Type /Page /Parent 45 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 29 0 R >>
+endobj
+31 0 obj
+<< /Length 3483 >>
+stream
+1 1 1 rg 0.0 0.0 595.0 842.0 re f
+0.86 0.08 0.08 rg 0.0 826.0 595.0 16.0 re f
+0.04 0.035 0.035 rg BT /F2 23 Tf 42.0 784.0 Td (How Felix Crypto Edge Helps) Tj ET
+0.42 0.32 0.32 rg BT /F1 10 Tf 42.0 760.0 Td (Use the tool as a training wheel for process, not as a profit machine.) Tj ET
+0.86 0.08 0.08 RG 1.2 w 42.0 744.0 m 553.0 744.0 l S
+0.035 0.03 0.03 rg 55.0 255.0 485.0 335.0 re f
+0.75 0.12 0.12 RG 1 w 55.0 255.0 485.0 335.0 re S
+0.16 0.08 0.08 RG 0.45 w 55.0 322.0 m 540.0 322.0 l S
+0.16 0.08 0.08 RG 0.45 w 55.0 389.0 m 540.0 389.0 l S
+0.16 0.08 0.08 RG 0.45 w 55.0 456.0 m 540.0 456.0 l S
+0.16 0.08 0.08 RG 0.45 w 55.0 523.0 m 540.0 523.0 l S
+0.38 0.02 0.02 rg 71.0 482.8 453.0 28.0 re f
+0.95 0.13 0.13 RG 0.7 w 71.0 482.8 453.0 28.0 re S
+0.04 0.25 0.1 rg 71.0 315.3 453.0 28.0 re f
+0.15 0.75 0.32 RG 0.7 w 71.0 315.3 453.0 28.0 re S
+0.86 0.08 0.08 RG 3 w 74.4 322.0 m 113.2 358.9 l S
+0.86 0.08 0.08 RG 3 w 113.2 358.9 m 161.7 342.1 l S
+0.86 0.08 0.08 RG 3 w 161.7 342.1 m 215.1 409.1 l S
+0.86 0.08 0.08 RG 3 w 215.1 409.1 m 263.5 389.0 l S
+0.86 0.08 0.08 RG 3 w 263.5 389.0 m 321.8 462.7 l S
+0.86 0.08 0.08 RG 3 w 321.8 462.7 m 380.0 439.2 l S
+0.86 0.08 0.08 RG 3 w 380.0 439.2 m 433.3 513.0 l S
+0.86 0.08 0.08 RG 3 w 433.3 513.0 m 491.5 476.1 l S
+1 0.84 0.84 rg BT /F2 11 Tf 92.0 477.0 Td (Possible sell / take-profit zone) Tj ET
+0.86 1 0.88 rg BT /F2 11 Tf 92.0 314.0 Td (Possible buy / watch zone) Tj ET
+1.0 0.94 0.94 rg 56.0 140.0 148.0 72.0 re f
+0.92 0.32 0.32 RG 1 w 56.0 140.0 148.0 72.0 re S
+0.86 0.08 0.08 rg 91.0 183.0 m 91.0 190.2 85.2 196.0 78.0 196.0 c 70.8 196.0 65.0 190.2 65.0 183.0 c 65.0 175.8 70.8 170.0 78.0 170.0 c 85.2 170.0 91.0 175.8 91.0 183.0 c f
+1 1 1 rg BT /F2 9.5 Tf 74.0 178.0 Td (1) Tj ET
+0.35 0.02 0.03 rg BT /F2 12.5 Tf 101.0 184.0 Td (Trend) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 70.0 162.0 Td (Is price moving up,) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 70.0 149.5 Td (down, or sideways?) Tj ET
+1.0 0.94 0.94 rg 224.0 140.0 148.0 72.0 re f
+0.92 0.32 0.32 RG 1 w 224.0 140.0 148.0 72.0 re S
+0.86 0.08 0.08 rg 259.0 183.0 m 259.0 190.2 253.2 196.0 246.0 196.0 c 238.8 196.0 233.0 190.2 233.0 183.0 c 233.0 175.8 238.8 170.0 246.0 170.0 c 253.2 170.0 259.0 175.8 259.0 183.0 c f
+1 1 1 rg BT /F2 9.5 Tf 242.0 178.0 Td (2) Tj ET
+0.35 0.02 0.03 rg BT /F2 12.5 Tf 269.0 184.0 Td (Zones) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 238.0 162.0 Td (Where did price react) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 238.0 149.5 Td (before?) Tj ET
+1.0 0.94 0.94 rg 392.0 140.0 148.0 72.0 re f
+0.92 0.32 0.32 RG 1 w 392.0 140.0 148.0 72.0 re S
+0.86 0.08 0.08 rg 427.0 183.0 m 427.0 190.2 421.2 196.0 414.0 196.0 c 406.8 196.0 401.0 190.2 401.0 183.0 c 401.0 175.8 406.8 170.0 414.0 170.0 c 421.2 170.0 427.0 175.8 427.0 183.0 c f
+1 1 1 rg BT /F2 9.5 Tf 410.0 178.0 Td (3) Tj ET
+0.35 0.02 0.03 rg BT /F2 12.5 Tf 437.0 184.0 Td (Risk) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 406.0 162.0 Td (Where is the idea) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 406.0 149.5 Td (wrong?) Tj ET
+1.0 0.94 0.94 rg 56.0 55.0 483.0 60.0 re f
+0.92 0.32 0.32 RG 1 w 56.0 55.0 483.0 60.0 re S
+0.86 0.08 0.08 rg 91.0 86.0 m 91.0 93.2 85.2 99.0 78.0 99.0 c 70.8 99.0 65.0 93.2 65.0 86.0 c 65.0 78.8 70.8 73.0 78.0 73.0 c 85.2 73.0 91.0 78.8 91.0 86.0 c f
+1 1 1 rg BT /F2 9.5 Tf 74.0 81.0 Td (!) Tj ET
+0.35 0.02 0.03 rg BT /F2 12.5 Tf 101.0 87.0 Td (Important) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 70.0 65.0 Td (Good tool output should make you slower and more structured, not reckless.) Tj ET
+endstream
+endobj
+32 0 obj
+<< /Type /Page /Parent 45 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 31 0 R >>
+endobj
+33 0 obj
+<< /Length 4907 >>
+stream
+1 1 1 rg 0.0 0.0 595.0 842.0 re f
+0.86 0.08 0.08 rg 0.0 826.0 595.0 16.0 re f
+0.04 0.035 0.035 rg BT /F2 23 Tf 42.0 784.0 Td (Beginner Checklist Before Any Trade) Tj ET
+0.42 0.32 0.32 rg BT /F1 10 Tf 42.0 760.0 Td (If you cannot answer these questions, skip the trade. Skipping bad trades is a) Tj ET
+0.42 0.32 0.32 rg BT /F1 10 Tf 42.0 746.0 Td (skill.) Tj ET
+0.86 0.08 0.08 RG 1.2 w 42.0 744.0 m 553.0 744.0 l S
+1.0 0.94 0.94 rg 62.0 586.0 220.0 56.0 re f
+0.9 0.25 0.25 RG 1 w 62.0 586.0 220.0 56.0 re S
+0.86 0.08 0.08 rg 93.0 614.0 m 93.0 620.1 88.1 625.0 82.0 625.0 c 75.9 625.0 71.0 620.1 71.0 614.0 c 71.0 607.9 75.9 603.0 82.0 603.0 c 88.1 603.0 93.0 607.9 93.0 614.0 c f
+1 1 1 rg BT /F2 8.5 Tf 78.0 610.0 Td (1) Tj ET
+0.09 0.06 0.06 rg BT /F2 11 Tf 104.0 621.0 Td (What coin?) Tj ET
+1.0 0.94 0.94 rg 62.0 504.0 220.0 56.0 re f
+0.9 0.25 0.25 RG 1 w 62.0 504.0 220.0 56.0 re S
+0.86 0.08 0.08 rg 93.0 532.0 m 93.0 538.1 88.1 543.0 82.0 543.0 c 75.9 543.0 71.0 538.1 71.0 532.0 c 71.0 525.9 75.9 521.0 82.0 521.0 c 88.1 521.0 93.0 525.9 93.0 532.0 c f
+1 1 1 rg BT /F2 8.5 Tf 78.0 528.0 Td (2) Tj ET
+0.09 0.06 0.06 rg BT /F2 11 Tf 104.0 539.0 Td (What timeframe?) Tj ET
+1.0 0.94 0.94 rg 62.0 422.0 220.0 56.0 re f
+0.9 0.25 0.25 RG 1 w 62.0 422.0 220.0 56.0 re S
+0.86 0.08 0.08 rg 93.0 450.0 m 93.0 456.1 88.1 461.0 82.0 461.0 c 75.9 461.0 71.0 456.1 71.0 450.0 c 71.0 443.9 75.9 439.0 82.0 439.0 c 88.1 439.0 93.0 443.9 93.0 450.0 c f
+1 1 1 rg BT /F2 8.5 Tf 78.0 446.0 Td (3) Tj ET
+0.09 0.06 0.06 rg BT /F2 11 Tf 104.0 457.0 Td (Trending or ranging?) Tj ET
+1.0 0.94 0.94 rg 62.0 340.0 220.0 56.0 re f
+0.9 0.25 0.25 RG 1 w 62.0 340.0 220.0 56.0 re S
+0.86 0.08 0.08 rg 93.0 368.0 m 93.0 374.1 88.1 379.0 82.0 379.0 c 75.9 379.0 71.0 374.1 71.0 368.0 c 71.0 361.9 75.9 357.0 82.0 357.0 c 88.1 357.0 93.0 361.9 93.0 368.0 c f
+1 1 1 rg BT /F2 8.5 Tf 78.0 364.0 Td (4) Tj ET
+0.09 0.06 0.06 rg BT /F2 11 Tf 104.0 375.0 Td (Where is support?) Tj ET
+1.0 0.94 0.94 rg 62.0 258.0 220.0 56.0 re f
+0.9 0.25 0.25 RG 1 w 62.0 258.0 220.0 56.0 re S
+0.86 0.08 0.08 rg 93.0 286.0 m 93.0 292.1 88.1 297.0 82.0 297.0 c 75.9 297.0 71.0 292.1 71.0 286.0 c 71.0 279.9 75.9 275.0 82.0 275.0 c 88.1 275.0 93.0 279.9 93.0 286.0 c f
+1 1 1 rg BT /F2 8.5 Tf 78.0 282.0 Td (5) Tj ET
+0.09 0.06 0.06 rg BT /F2 11 Tf 104.0 293.0 Td (Where is resistance?) Tj ET
+1.0 0.94 0.94 rg 315.0 586.0 220.0 56.0 re f
+0.9 0.25 0.25 RG 1 w 315.0 586.0 220.0 56.0 re S
+0.86 0.08 0.08 rg 346.0 614.0 m 346.0 620.1 341.1 625.0 335.0 625.0 c 328.9 625.0 324.0 620.1 324.0 614.0 c 324.0 607.9 328.9 603.0 335.0 603.0 c 341.1 603.0 346.0 607.9 346.0 614.0 c f
+1 1 1 rg BT /F2 8.5 Tf 331.0 610.0 Td (6) Tj ET
+0.09 0.06 0.06 rg BT /F2 11 Tf 357.0 621.0 Td (Why this entry?) Tj ET
+1.0 0.94 0.94 rg 315.0 504.0 220.0 56.0 re f
+0.9 0.25 0.25 RG 1 w 315.0 504.0 220.0 56.0 re S
+0.86 0.08 0.08 rg 346.0 532.0 m 346.0 538.1 341.1 543.0 335.0 543.0 c 328.9 543.0 324.0 538.1 324.0 532.0 c 324.0 525.9 328.9 521.0 335.0 521.0 c 341.1 521.0 346.0 525.9 346.0 532.0 c f
+1 1 1 rg BT /F2 8.5 Tf 331.0 528.0 Td (7) Tj ET
+0.09 0.06 0.06 rg BT /F2 11 Tf 357.0 539.0 Td (Where is stop-loss?) Tj ET
+1.0 0.94 0.94 rg 315.0 422.0 220.0 56.0 re f
+0.9 0.25 0.25 RG 1 w 315.0 422.0 220.0 56.0 re S
+0.86 0.08 0.08 rg 346.0 450.0 m 346.0 456.1 341.1 461.0 335.0 461.0 c 328.9 461.0 324.0 456.1 324.0 450.0 c 324.0 443.9 328.9 439.0 335.0 439.0 c 341.1 439.0 346.0 443.9 346.0 450.0 c f
+1 1 1 rg BT /F2 8.5 Tf 331.0 446.0 Td (8) Tj ET
+0.09 0.06 0.06 rg BT /F2 11 Tf 357.0 457.0 Td (Where is target?) Tj ET
+1.0 0.94 0.94 rg 315.0 340.0 220.0 56.0 re f
+0.9 0.25 0.25 RG 1 w 315.0 340.0 220.0 56.0 re S
+0.86 0.08 0.08 rg 346.0 368.0 m 346.0 374.1 341.1 379.0 335.0 379.0 c 328.9 379.0 324.0 374.1 324.0 368.0 c 324.0 361.9 328.9 357.0 335.0 357.0 c 341.1 357.0 346.0 361.9 346.0 368.0 c f
+1 1 1 rg BT /F2 8.5 Tf 331.0 364.0 Td (9) Tj ET
+0.09 0.06 0.06 rg BT /F2 11 Tf 357.0 375.0 Td (How much risk?) Tj ET
+1.0 0.94 0.94 rg 315.0 258.0 220.0 56.0 re f
+0.9 0.25 0.25 RG 1 w 315.0 258.0 220.0 56.0 re S
+0.86 0.08 0.08 rg 346.0 286.0 m 346.0 292.1 341.1 297.0 335.0 297.0 c 328.9 297.0 324.0 292.1 324.0 286.0 c 324.0 279.9 328.9 275.0 335.0 275.0 c 341.1 275.0 346.0 279.9 346.0 286.0 c f
+1 1 1 rg BT /F2 8.5 Tf 328.0 282.0 Td (10) Tj ET
+0.09 0.06 0.06 rg BT /F2 11 Tf 357.0 293.0 Td (Calm or chasing?) Tj ET
+1.0 0.94 0.94 rg 56.0 94.0 483.0 80.0 re f
+0.92 0.32 0.32 RG 1 w 56.0 94.0 483.0 80.0 re S
+0.86 0.08 0.08 rg 91.0 145.0 m 91.0 152.2 85.2 158.0 78.0 158.0 c 70.8 158.0 65.0 152.2 65.0 145.0 c 65.0 137.8 70.8 132.0 78.0 132.0 c 85.2 132.0 91.0 137.8 91.0 145.0 c f
+1 1 1 rg BT /F2 9.5 Tf 71.0 140.0 Td (OK) Tj ET
+0.35 0.02 0.03 rg BT /F2 12.5 Tf 101.0 146.0 Td (Final rule) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 70.0 124.0 Td (The goal is not to trade more. The goal is to trade better, smaller, and with a) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 70.0 111.5 Td (clear reason.) Tj ET
+endstream
+endobj
+34 0 obj
+<< /Type /Page /Parent 45 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 33 0 R >>
+endobj
+35 0 obj
+<< /Length 4235 >>
+stream
+1 1 1 rg 0.0 0.0 595.0 842.0 re f
+0.86 0.08 0.08 rg 0.0 826.0 595.0 16.0 re f
+0.04 0.035 0.035 rg BT /F2 23 Tf 42.0 784.0 Td (Mistakes That Destroy Beginners) Tj ET
+0.42 0.32 0.32 rg BT /F1 10 Tf 42.0 760.0 Td (Avoiding these mistakes can be more valuable than finding another indicator.) Tj ET
+0.86 0.08 0.08 RG 1.2 w 42.0 744.0 m 553.0 744.0 l S
+1.0 0.94 0.94 rg 58.0 495.0 225.0 105.0 re f
+0.92 0.32 0.32 RG 1 w 58.0 495.0 225.0 105.0 re S
+0.86 0.08 0.08 rg 93.0 571.0 m 93.0 578.2 87.2 584.0 80.0 584.0 c 72.8 584.0 67.0 578.2 67.0 571.0 c 67.0 563.8 72.8 558.0 80.0 558.0 c 87.2 558.0 93.0 563.8 93.0 571.0 c f
+1 1 1 rg BT /F2 9.5 Tf 76.0 566.0 Td (1) Tj ET
+0.35 0.02 0.03 rg BT /F2 12.5 Tf 103.0 572.0 Td (FOMO buying) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 72.0 550.0 Td (Jumping in after a huge green) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 72.0 537.5 Td (candle because you feel left) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 72.0 525.0 Td (behind.) Tj ET
+1.0 0.94 0.94 rg 312.0 495.0 225.0 105.0 re f
+0.92 0.32 0.32 RG 1 w 312.0 495.0 225.0 105.0 re S
+0.86 0.08 0.08 rg 347.0 571.0 m 347.0 578.2 341.2 584.0 334.0 584.0 c 326.8 584.0 321.0 578.2 321.0 571.0 c 321.0 563.8 326.8 558.0 334.0 558.0 c 341.2 558.0 347.0 563.8 347.0 571.0 c f
+1 1 1 rg BT /F2 9.5 Tf 330.0 566.0 Td (2) Tj ET
+0.35 0.02 0.03 rg BT /F2 12.5 Tf 357.0 572.0 Td (No stop-loss) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 326.0 550.0 Td (Refusing to decide where the trade) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 326.0 537.5 Td (idea is wrong.) Tj ET
+1.0 0.94 0.94 rg 58.0 353.0 225.0 105.0 re f
+0.92 0.32 0.32 RG 1 w 58.0 353.0 225.0 105.0 re S
+0.86 0.08 0.08 rg 93.0 429.0 m 93.0 436.2 87.2 442.0 80.0 442.0 c 72.8 442.0 67.0 436.2 67.0 429.0 c 67.0 421.8 72.8 416.0 80.0 416.0 c 87.2 416.0 93.0 421.8 93.0 429.0 c f
+1 1 1 rg BT /F2 9.5 Tf 76.0 424.0 Td (3) Tj ET
+0.35 0.02 0.03 rg BT /F2 12.5 Tf 103.0 430.0 Td (Too much size) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 72.0 408.0 Td (Risking so much that one normal) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 72.0 395.5 Td (loss hurts badly.) Tj ET
+1.0 0.94 0.94 rg 312.0 353.0 225.0 105.0 re f
+0.92 0.32 0.32 RG 1 w 312.0 353.0 225.0 105.0 re S
+0.86 0.08 0.08 rg 347.0 429.0 m 347.0 436.2 341.2 442.0 334.0 442.0 c 326.8 442.0 321.0 436.2 321.0 429.0 c 321.0 421.8 326.8 416.0 334.0 416.0 c 341.2 416.0 347.0 421.8 347.0 429.0 c f
+1 1 1 rg BT /F2 9.5 Tf 330.0 424.0 Td (4) Tj ET
+0.35 0.02 0.03 rg BT /F2 12.5 Tf 357.0 430.0 Td (Signal chasing) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 326.0 408.0 Td (Blindly copying strangers online) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 326.0 395.5 Td (without your own plan.) Tj ET
+1.0 0.94 0.94 rg 58.0 211.0 225.0 105.0 re f
+0.92 0.32 0.32 RG 1 w 58.0 211.0 225.0 105.0 re S
+0.86 0.08 0.08 rg 93.0 287.0 m 93.0 294.2 87.2 300.0 80.0 300.0 c 72.8 300.0 67.0 294.2 67.0 287.0 c 67.0 279.8 72.8 274.0 80.0 274.0 c 87.2 274.0 93.0 279.8 93.0 287.0 c f
+1 1 1 rg BT /F2 9.5 Tf 76.0 282.0 Td (5) Tj ET
+0.35 0.02 0.03 rg BT /F2 12.5 Tf 103.0 288.0 Td (Revenge trading) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 72.0 266.0 Td (Trying to win money back) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 72.0 253.5 Td (immediately after losing.) Tj ET
+1.0 0.94 0.94 rg 312.0 211.0 225.0 105.0 re f
+0.92 0.32 0.32 RG 1 w 312.0 211.0 225.0 105.0 re S
+0.86 0.08 0.08 rg 347.0 287.0 m 347.0 294.2 341.2 300.0 334.0 300.0 c 326.8 300.0 321.0 294.2 321.0 287.0 c 321.0 279.8 326.8 274.0 334.0 274.0 c 341.2 274.0 347.0 279.8 347.0 287.0 c f
+1 1 1 rg BT /F2 9.5 Tf 330.0 282.0 Td (6) Tj ET
+0.35 0.02 0.03 rg BT /F2 12.5 Tf 357.0 288.0 Td (Indicator overload) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 326.0 266.0 Td (Making the chart so messy that you) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 326.0 253.5 Td (cannot think clearly.) Tj ET
+1.0 0.88 0.88 rg 58.0 92.0 480.0 80.0 re f
+0.92 0.32 0.32 RG 1 w 58.0 92.0 480.0 80.0 re S
+0.86 0.08 0.08 rg 93.0 143.0 m 93.0 150.2 87.2 156.0 80.0 156.0 c 72.8 156.0 67.0 150.2 67.0 143.0 c 67.0 135.8 72.8 130.0 80.0 130.0 c 87.2 130.0 93.0 135.8 93.0 143.0 c f
+1 1 1 rg BT /F2 9.5 Tf 73.0 138.0 Td (OK) Tj ET
+0.35 0.02 0.03 rg BT /F2 12.5 Tf 103.0 144.0 Td (Dummy rule) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 72.0 122.0 Td (The tool supports learning. It does not remove risk.) Tj ET
+endstream
+endobj
+36 0 obj
+<< /Type /Page /Parent 45 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 35 0 R >>
+endobj
+37 0 obj
+<< /Length 1885 >>
+stream
+1 1 1 rg 0.0 0.0 595.0 842.0 re f
+0.86 0.08 0.08 rg 0.0 826.0 595.0 16.0 re f
+0.04 0.035 0.035 rg BT /F2 23 Tf 42.0 784.0 Td (Mini Glossary, Part 1) Tj ET
+0.42 0.32 0.32 rg BT /F1 10 Tf 42.0 760.0 Td (Plain-English definitions for beginner chart reading.) Tj ET
+0.86 0.08 0.08 RG 1.2 w 42.0 744.0 m 553.0 744.0 l S
+0.35 0.02 0.03 rg BT /F2 12 Tf 58.0 625.0 Td (Altcoin) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 58.0 607.0 Td (Any crypto asset that is not) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 58.0 595.0 Td (Bitcoin.) Tj ET
+0.35 0.02 0.03 rg BT /F2 12 Tf 58.0 555.0 Td (Breakout) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 58.0 537.0 Td (Price moving beyond a support) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 58.0 525.0 Td (or resistance area.) Tj ET
+0.35 0.02 0.03 rg BT /F2 12 Tf 58.0 485.0 Td (Confirmation) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 58.0 467.0 Td (Extra evidence before entry,) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 58.0 455.0 Td (such as a candle close above a) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 58.0 443.0 Td (level.) Tj ET
+0.35 0.02 0.03 rg BT /F2 12 Tf 58.0 415.0 Td (FOMO) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 58.0 397.0 Td (Fear of missing out; chasing) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 58.0 385.0 Td (because price is moving fast.) Tj ET
+0.35 0.02 0.03 rg BT /F2 12 Tf 58.0 345.0 Td (Liquidity) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 58.0 327.0 Td (How easily an asset can be) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 58.0 315.0 Td (bought or sold.) Tj ET
+0.35 0.02 0.03 rg BT /F2 12 Tf 58.0 275.0 Td (Long) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 58.0 257.0 Td (A trade that benefits if price) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 58.0 245.0 Td (rises.) Tj ET
+0.35 0.02 0.03 rg BT /F2 12 Tf 58.0 205.0 Td (Pullback) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 58.0 187.0 Td (A temporary move against the) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 58.0 175.0 Td (trend.) Tj ET
+endstream
+endobj
+38 0 obj
+<< /Type /Page /Parent 45 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 37 0 R >>
+endobj
+39 0 obj
+<< /Length 1833 >>
+stream
+1 1 1 rg 0.0 0.0 595.0 842.0 re f
+0.86 0.08 0.08 rg 0.0 826.0 595.0 16.0 re f
+0.04 0.035 0.035 rg BT /F2 23 Tf 42.0 784.0 Td (Mini Glossary, Part 2) Tj ET
+0.42 0.32 0.32 rg BT /F1 10 Tf 42.0 760.0 Td (Plain-English definitions for beginner chart reading.) Tj ET
+0.86 0.08 0.08 RG 1.2 w 42.0 744.0 m 553.0 744.0 l S
+0.35 0.02 0.03 rg BT /F2 12 Tf 58.0 625.0 Td (Range) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 58.0 607.0 Td (Sideways market between support) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 58.0 595.0 Td (and resistance.) Tj ET
+0.35 0.02 0.03 rg BT /F2 12 Tf 58.0 555.0 Td (Resistance) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 58.0 537.0 Td (Area where price may struggle) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 58.0 525.0 Td (to move higher.) Tj ET
+0.35 0.02 0.03 rg BT /F2 12 Tf 58.0 485.0 Td (Risk/reward) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 58.0 467.0 Td (Comparison between possible) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 58.0 455.0 Td (loss and possible profit.) Tj ET
+0.35 0.02 0.03 rg BT /F2 12 Tf 58.0 415.0 Td (Short) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 58.0 397.0 Td (A trade that benefits if price) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 58.0 385.0 Td (falls; risky for beginners.) Tj ET
+0.35 0.02 0.03 rg BT /F2 12 Tf 58.0 345.0 Td (Stop-loss) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 58.0 327.0 Td (Planned exit if the trade idea) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 58.0 315.0 Td (is wrong.) Tj ET
+0.35 0.02 0.03 rg BT /F2 12 Tf 58.0 275.0 Td (Support) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 58.0 257.0 Td (Area where price may stop) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 58.0 245.0 Td (falling or bounce.) Tj ET
+0.35 0.02 0.03 rg BT /F2 12 Tf 58.0 205.0 Td (Volatility) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 58.0 187.0 Td (How fast and strongly price) Tj ET
+0.09 0.06 0.06 rg BT /F1 9.5 Tf 58.0 175.0 Td (moves.) Tj ET
+endstream
+endobj
+40 0 obj
+<< /Type /Page /Parent 45 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 39 0 R >>
+endobj
+41 0 obj
+<< /Length 2395 >>
+stream
+1 1 1 rg 0.0 0.0 595.0 842.0 re f
+0.86 0.08 0.08 rg 0.0 826.0 595.0 16.0 re f
+0.04 0.035 0.035 rg BT /F2 23 Tf 42.0 784.0 Td (7-Day Practice Plan) Tj ET
+0.42 0.32 0.32 rg BT /F1 10 Tf 42.0 760.0 Td (Practice on charts before risking real money. The goal is pattern recognition) Tj ET
+0.42 0.32 0.32 rg BT /F1 10 Tf 42.0 746.0 Td (and discipline.) Tj ET
+0.86 0.08 0.08 RG 1.2 w 42.0 744.0 m 553.0 744.0 l S
+1.0 0.94 0.94 rg 65.0 590.0 465.0 48.0 re f
+0.9 0.25 0.25 RG 1 w 65.0 590.0 465.0 48.0 re S
+0.35 0.02 0.03 rg BT /F2 12 Tf 85.0 617.0 Td (Day 1) Tj ET
+0.09 0.06 0.06 rg BT /F1 10.5 Tf 155.0 622.0 Td (Label open, high, low, and close on 20 candles.) Tj ET
+1.0 0.94 0.94 rg 65.0 518.0 465.0 48.0 re f
+0.9 0.25 0.25 RG 1 w 65.0 518.0 465.0 48.0 re S
+0.35 0.02 0.03 rg BT /F2 12 Tf 85.0 545.0 Td (Day 2) Tj ET
+0.09 0.06 0.06 rg BT /F1 10.5 Tf 155.0 550.0 Td (Mark three support zones and three resistance zones) Tj ET
+0.09 0.06 0.06 rg BT /F1 10.5 Tf 155.0 537.0 Td (on BTC.) Tj ET
+1.0 0.94 0.94 rg 65.0 446.0 465.0 48.0 re f
+0.9 0.25 0.25 RG 1 w 65.0 446.0 465.0 48.0 re S
+0.35 0.02 0.03 rg BT /F2 12 Tf 85.0 473.0 Td (Day 3) Tj ET
+0.09 0.06 0.06 rg BT /F1 10.5 Tf 155.0 478.0 Td (Label uptrend, downtrend, or range on 10 charts.) Tj ET
+1.0 0.94 0.94 rg 65.0 374.0 465.0 48.0 re f
+0.9 0.25 0.25 RG 1 w 65.0 374.0 465.0 48.0 re S
+0.35 0.02 0.03 rg BT /F2 12 Tf 85.0 401.0 Td (Day 4) Tj ET
+0.09 0.06 0.06 rg BT /F1 10.5 Tf 155.0 406.0 Td (Write entry, stop-loss, and target for practice) Tj ET
+0.09 0.06 0.06 rg BT /F1 10.5 Tf 155.0 393.0 Td (setups.) Tj ET
+1.0 0.94 0.94 rg 65.0 302.0 465.0 48.0 re f
+0.9 0.25 0.25 RG 1 w 65.0 302.0 465.0 48.0 re S
+0.35 0.02 0.03 rg BT /F2 12 Tf 85.0 329.0 Td (Day 5) Tj ET
+0.09 0.06 0.06 rg BT /F1 10.5 Tf 155.0 334.0 Td (Calculate position size for five fictional trades.) Tj ET
+1.0 0.94 0.94 rg 65.0 230.0 465.0 48.0 re f
+0.9 0.25 0.25 RG 1 w 65.0 230.0 465.0 48.0 re S
+0.35 0.02 0.03 rg BT /F2 12 Tf 85.0 257.0 Td (Day 6) Tj ET
+0.09 0.06 0.06 rg BT /F1 10.5 Tf 155.0 262.0 Td (Review mistakes and identify your most likely) Tj ET
+0.09 0.06 0.06 rg BT /F1 10.5 Tf 155.0 249.0 Td (weakness.) Tj ET
+1.0 0.94 0.94 rg 65.0 158.0 465.0 48.0 re f
+0.9 0.25 0.25 RG 1 w 65.0 158.0 465.0 48.0 re S
+0.35 0.02 0.03 rg BT /F2 12 Tf 85.0 185.0 Td (Day 7) Tj ET
+0.09 0.06 0.06 rg BT /F1 10.5 Tf 155.0 190.0 Td (Build a one-page checklist and follow it every time.) Tj ET
+endstream
+endobj
+42 0 obj
+<< /Type /Page /Parent 45 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 41 0 R >>
+endobj
+43 0 obj
+<< /Length 927 >>
+stream
+0.04 0.035 0.035 rg 0.0 0.0 595.0 842.0 re f
+1 1 1 rg BT /F2 30 Tf 60.0 640.0 Td (You do not need magic signals.) Tj ET
+1 0.78 0.78 rg BT /F2 30 Tf 60.0 598.0 Td (You need a repeatable process.) Tj ET
+1 1 1 rg BT /F1 14 Tf 60.0 535.0 Td (Felix Crypto Edge is built to help beginners slow down,) Tj ET
+1 1 1 rg BT /F1 14 Tf 60.0 515.0 Td (read charts clearly, understand risk, and learn why a) Tj ET
+1 1 1 rg BT /F1 14 Tf 60.0 495.0 Td (setup might make sense.) Tj ET
+0.12 0.02 0.02 rg 60.0 315.0 475.0 110.0 re f
+0.9 0.1 0.1 RG 1 w 60.0 315.0 475.0 110.0 re S
+1 1 1 rg BT /F2 18 Tf 82.0 382.0 Td (Education only. Not financial advice.) Tj ET
+1 0.82 0.82 rg BT /F1 12 Tf 82.0 350.0 Td (Crypto trading is risky. You can lose money. Always) Tj ET
+1 0.82 0.82 rg BT /F1 12 Tf 82.0 333.0 Td (use your own judgment and manage risk.) Tj ET
+1 0.78 0.78 rg BT /F2 15 Tf 60.0 110.0 Td (Felix Crypto Edge - Version 0.2 visual draft) Tj ET
+endstream
+endobj
+44 0 obj
+<< /Type /Page /Parent 45 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 43 0 R >>
+endobj
+45 0 obj
+<< /Type /Pages /Kids [4 0 R 6 0 R 8 0 R 10 0 R 12 0 R 14 0 R 16 0 R 18 0 R 20 0 R 22 0 R 24 0 R 26 0 R 28 0 R 30 0 R 32 0 R 34 0 R 36 0 R 38 0 R 40 0 R 42 0 R 44 0 R] /Count 21 >>
+endobj
+46 0 obj
+<< /Type /Catalog /Pages 45 0 R >>
 endobj
 xref
-0 23
+0 47
 0000000000 65535 f 
 0000000015 00000 n 
 0000000085 00000 n 
 0000000160 00000 n 
-0000001830 00000 n 
-0000001967 00000 n 
-0000004322 00000 n 
-0000004459 00000 n 
-0000007228 00000 n 
-0000007365 00000 n 
-0000009733 00000 n 
-0000009871 00000 n 
-0000012469 00000 n 
-0000012608 00000 n 
-0000015527 00000 n 
-0000015666 00000 n 
-0000020963 00000 n 
-0000021102 00000 n 
-0000024830 00000 n 
-0000024969 00000 n 
-0000025927 00000 n 
-0000026066 00000 n 
-0000026178 00000 n 
+0000002060 00000 n 
+0000002197 00000 n 
+0000004873 00000 n 
+0000005010 00000 n 
+0000010212 00000 n 
+0000010349 00000 n 
+0000014111 00000 n 
+0000014249 00000 n 
+0000017941 00000 n 
+0000018080 00000 n 
+0000020262 00000 n 
+0000020401 00000 n 
+0000023180 00000 n 
+0000023319 00000 n 
+0000026227 00000 n 
+0000026366 00000 n 
+0000030285 00000 n 
+0000030424 00000 n 
+0000033481 00000 n 
+0000033620 00000 n 
+0000036660 00000 n 
+0000036799 00000 n 
+0000039205 00000 n 
+0000039344 00000 n 
+0000042656 00000 n 
+0000042795 00000 n 
+0000047337 00000 n 
+0000047476 00000 n 
+0000051012 00000 n 
+0000051151 00000 n 
+0000056111 00000 n 
+0000056250 00000 n 
+0000060538 00000 n 
+0000060677 00000 n 
+0000062615 00000 n 
+0000062754 00000 n 
+0000064640 00000 n 
+0000064779 00000 n 
+0000067227 00000 n 
+0000067366 00000 n 
+0000068345 00000 n 
+0000068484 00000 n 
+0000068681 00000 n 
 trailer
-<< /Size 23 /Root 22 0 R >>
+<< /Size 47 /Root 46 0 R >>
 startxref
-26229
+68732
 %%EOF

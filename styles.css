@@ -449,3 +449,146 @@ input:focus, textarea:focus {
   .site-footer { flex-direction: column; }
   .message.system, .message.outbound { margin-left: 0; }
 }
+
+select {
+  width: 100%;
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  padding: 13px 14px;
+  background: rgba(255,255,255,0.08);
+  color: var(--text);
+  font: inherit;
+  outline: none;
+}
+
+select:focus {
+  border-color: var(--accent);
+  box-shadow: 0 0 0 4px rgba(239, 68, 68, 0.14);
+}
+
+.chart-card {
+  transform: rotate(0.8deg);
+}
+
+.chart-window {
+  position: relative;
+  height: 280px;
+  margin: 24px 0 16px;
+  overflow: hidden;
+  border: 1px solid rgba(248,113,113,0.22);
+  border-radius: 24px;
+  background:
+    linear-gradient(rgba(248,113,113,0.06) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(248,113,113,0.06) 1px, transparent 1px),
+    radial-gradient(circle at 70% 30%, rgba(239,68,68,0.16), transparent 12rem),
+    rgba(0,0,0,0.28);
+  background-size: 34px 34px, 34px 34px, auto, auto;
+}
+
+.chart-line {
+  position: absolute;
+  inset: 44px 22px 54px 22px;
+  clip-path: polygon(0 72%, 12% 60%, 22% 66%, 34% 38%, 45% 48%, 56% 28%, 68% 34%, 80% 16%, 100% 26%, 100% 34%, 80% 24%, 68% 42%, 56% 36%, 45% 56%, 34% 46%, 22% 74%, 12% 68%, 0 80%);
+  background: linear-gradient(90deg, #fb7185, #ef4444, #fca5a5);
+  filter: drop-shadow(0 0 18px rgba(239,68,68,0.45));
+}
+
+.zone, .level {
+  position: absolute;
+  left: 18px;
+  right: 18px;
+  padding: 8px 10px;
+  border-radius: 12px;
+  font-size: 12px;
+  font-weight: 900;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.zone.sell {
+  top: 38px;
+  color: #fecaca;
+  border: 1px solid rgba(248,113,113,0.55);
+  background: rgba(127,29,29,0.32);
+}
+
+.zone.buy {
+  bottom: 34px;
+  color: #fee2e2;
+  border: 1px solid rgba(239,68,68,0.45);
+  background: rgba(69,10,10,0.42);
+}
+
+.level {
+  left: auto;
+  right: 18px;
+  width: max-content;
+  color: var(--muted);
+  border: 1px dashed rgba(248,113,113,0.5);
+  background: rgba(0,0,0,0.38);
+}
+
+.level.resistance { top: 94px; }
+.level.support { bottom: 92px; }
+
+.signal-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+}
+
+.signal-grid div {
+  padding: 14px;
+  border-radius: 18px;
+  background: rgba(255,255,255,0.07);
+}
+
+.signal-grid strong, .signal-grid span { display: block; }
+.signal-grid span { color: var(--muted); font-size: 13px; }
+
+.pricing-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 18px;
+}
+
+.price-card.compact {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  min-height: 100%;
+}
+
+.price-card.compact ul {
+  grid-template-columns: 1fr;
+}
+
+.price-card.featured {
+  border-color: rgba(248,113,113,0.55);
+  box-shadow: 0 26px 90px rgba(239,68,68,0.22);
+}
+
+.badge {
+  width: max-content;
+  margin-bottom: 12px;
+  padding: 7px 10px;
+  border-radius: 999px;
+  color: var(--dark);
+  background: linear-gradient(135deg, var(--accent), var(--accent-2));
+  font-size: 12px;
+  font-weight: 900;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+}
+
+.badge.save {
+  background: #fff1f2;
+}
+
+.disclaimer {
+  margin-top: 18px;
+}
+
+@media (max-width: 860px) {
+  .pricing-grid, .signal-grid { grid-template-columns: 1fr; }
+}

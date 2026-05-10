@@ -41,6 +41,16 @@ def text(x, y, s, size=11, font='F1', color=TEXT):
     ops.append(f"{rgb(color)} rg BT /{font} {size} Tf {x:.1f} {y:.1f} Td ({esc(s)}) Tj ET")
 
 
+def text_width(s, size=11, bold=False):
+    # Rough Helvetica width estimate. Good enough for centering labels in our generated PDF.
+    factor = 0.56 if not bold else 0.60
+    return len(esc(s)) * size * factor
+
+
+def center_text(cx, y, s, size=11, font='F1', color=TEXT):
+    text(cx - text_width(s, size, font == 'F2') / 2, y, s, size, font, color)
+
+
 def wrapped(x, y, s, width=70, size=11, leading=15, font='F1', color=TEXT):
     for para in str(s).split('\n'):
         if not para.strip():
@@ -71,21 +81,37 @@ def circle(x, y, r, fill=RED):
 def header(title, subtitle=None):
     rect(0, 0, W, H, WHITE, None)
     rect(0, H - 16, W, 16, RED, None)
-    text(M, H - 58, title, 23, 'F2', BLACK)
+    center_text(W / 2, H - 58, title, 23, 'F2', BLACK)
     if subtitle:
-        wrapped(M, H - 82, subtitle, 79, 10, 14, 'F1', MUTED)
+        # Center subtitle block with comfortable margins so it never feels cropped.
+        wrapped(62, H - 82, subtitle, 76, 10, 14, 'F1', MUTED)
     line(M, H - 98, W - M, H - 98, RED, 1.2)
 
 
 def card(x, y, w, h, heading, body, icon=None, fill=LIGHT):
+    # Center all wide cards automatically; this prevents right-edge cropping in mobile PDF previews.
+    if w >= 455:
+        x = (W - w) / 2
     rect(x, y, w, h, fill, (0.92, 0.32, 0.32), 1)
-    tx = x + 14
+
+    pad = 16
+    icon_col = 0
     if icon:
-        circle(x + 22, y + h - 29, 13, RED)
-        text(x + 18 - (len(str(icon))-1)*3, y + h - 34, icon, 9.5, 'F2', WHITE)
-        tx = x + 45
-    text(tx, y + h - 28, heading, 12.5, 'F2', DARK_RED)
-    wrapped(x + 14, y + h - 50, body, max(20, int((w - 28) / 5.7)), 9.5, 12.5, 'F1', TEXT)
+        r = 10 if w < 180 else 11
+        cx = x + pad + r
+        cy = y + h - pad - r
+        circle(cx, cy, r, RED)
+        center_text(cx, cy - 3.5, str(icon), 7.5 if len(str(icon)) > 2 else 8.5, 'F2', WHITE)
+        icon_col = 34 if w < 180 else 42
+
+    tx = x + pad + icon_col
+    available = max(18, int((w - pad * 2 - icon_col) / 5.8))
+    # Wrap headings too. Long headings were the main cause of ugly overflow.
+    yy = y + h - 24
+    for line_part in textwrap.wrap(str(heading), available):
+        text(tx, yy, line_part, 11.5 if w < 180 else 12.5, 'F2', DARK_RED)
+        yy -= 14
+    wrapped(x + pad, yy - 6, body, max(18, int((w - pad * 2) / 5.7)), 9.2 if w < 180 else 9.5, 12.3, 'F1', TEXT)
 
 
 def mini_chart(x, y, w, h, pts, zones=False):

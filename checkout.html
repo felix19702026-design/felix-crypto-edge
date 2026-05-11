@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Felix Crypto Edge - Checkout</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css" />
+  <script src="https://js.stripe.com/v3/"></script>
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="index.html">
+      <span class="brand-mark">₿</span>
+      <span>Felix Crypto Edge</span>
+    </a>
+  </header>
+
+  <main class="section" style="max-width: 600px; margin: 0 auto; padding-top: 40px;">
+    <h1 style="text-align: center; margin-bottom: 30px;">Choose your plan</h1>
+    
+    <div class="pricing-grid" style="grid-template-columns: 1fr; gap: 15px; margin-bottom: 30px;">
+      <article class="price-card" style="cursor: pointer;" onclick="selectPlan('price_1TVjrWPwnbaFoOqOZwRtFuoY')">
+        <h3>1 Day Trial</h3>
+        <div class="price">$5<span>/day</span></div>
+        <ul>
+          <li>Full access for 24 hours</li>
+          <li>TradingView indicator</li>
+          <li>Web dashboard</li>
+          <li>Telegram alerts</li>
+        </ul>
+      </article>
+      
+      <article class="price-card" style="cursor: pointer;" onclick="selectPlan('price_1TVjriPwnbaFoOqOZjwtiXiG')">
+        <h3>Weekly</h3>
+        <div class="price">$25<span>/week</span></div>
+        <ul>
+          <li>TradingView indicator</li>
+          <li>Web dashboard</li>
+          <li>Telegram alerts</li>
+        </ul>
+      </article>
+      
+      <article class="price-card featured" style="cursor: pointer;" onclick="selectPlan('price_1TVjriPwnbaFoOqOiIY2Ju3J')">
+        <div class="badge">Most popular</div>
+        <h3>Monthly</h3>
+        <div class="price">$50<span>/month</span></div>
+        <ul>
+          <li>Everything in Weekly</li>
+          <li>Priority updates</li>
+          <li>New features first</li>
+        </ul>
+      </article>
+      
+      <article class="price-card" style="cursor: pointer;" onclick="selectPlan('price_1TVjrjPwnbaFoOqOrUG8tCGk')">
+        <div class="badge save">Save 60%</div>
+        <h3>Yearly</h3>
+        <div class="price">$220<span>/year</span></div>
+        <ul>
+          <li>Everything in Monthly</li>
+          <li>Best value</li>
+          <li>Future features included</li>
+        </ul>
+      </article>
+    </div>
+
+    <div id="checkout-section" style="display: none;">
+      <div class="lead-form">
+        <label>Coupon code
+          <input type="text" id="coupon" placeholder="Enter code (optional)">
+        </label>
+        <button class="button primary" onclick="checkout()" style="width: 100%;">Continue to payment</button>
+      </div>
+    </div>
+    
+    <p class="disclaimer" style="text-align: center; margin-top: 20px;">Education only. Not financial advice. Crypto trading is risky.</p>
+  </main>
+
+  <script>
+    const stripe = Stripe('pk_test_51TVjhpPwnbaFoOqO6qvudegFGcRKKA2QuQAucDsKf58KvPTlsgr1jkJBdB71869GAGmp4tUstzLuda9DDzv4EfQW00yBgJk8jc');
+    let selectedPrice = null;
+
+    function selectPlan(priceId) {
+      selectedPrice = priceId;
+      document.getElementById('checkout-section').style.display = 'block';
+      window.scrollTo(0, document.getElementById('checkout-section').offsetTop - 100);
+    }
+
+    async function checkout() {
+      const coupon = document.getElementById('coupon').value.trim();
+      
+      const body = {
+        priceId: selectedPrice,
+        coupon: coupon || undefined
+      };
+
+      // For now, redirect to Stripe Checkout
+      // In production, this would call your backend
+      const priceData = {
+        'price_1TVjrWPwnbaFoOqOZwRtFuoY': { amount: 500, name: '1 Day Trial' },
+        'price_1TVjriPwnbaFoOqOZjwtiXiG': { amount: 2500, name: 'Weekly' },
+        'price_1TVjriPwnbaFoOqOiIY2Ju3J': { amount: 5000, name: 'Monthly' },
+        'price_1TVjrjPwnbaFoOqOrUG8tCGk': { amount: 22000, name: 'Yearly' }
+      };
+
+      alert('Stripe Checkout integration needed.\n\nSelected: ' + priceData[selectedPrice].name + '\nCoupon: ' + (coupon || 'None') + '\n\nFor testing, use coupon: THISISMYTEST128903');
+    }
+  </script>
+</body>
+</html>

@@ -1,0 +1,26 @@
+[
+  {
+    "email": "test@example.com",
+    "coupon": "THISISMYTEST128903",
+    "plan": "free_trial",
+    "activatedAt": "2026-05-11T03:01:08.685Z",
+    "expiresAt": "2026-05-12T03:01:08.685Z",
+    "status": "active"
+  },
+  {
+    "email": "FELIX19702026@GMAIL.COM",
+    "coupon": "THISISMYTEST128903",
+    "plan": "free_trial",
+    "activatedAt": "2026-05-11T03:03:16.875Z",
+    "expiresAt": "2026-05-12T03:03:16.875Z",
+    "status": "active"
+  },
+  {
+    "email": "radedxboys@gmail.com",
+    "coupon": "THISISMYTEST128903",
+    "plan": "free_trial",
+    "activatedAt": "2026-05-11T03:05:28.002Z",
+    "expiresAt": "2026-05-12T03:05:28.002Z",
+    "status": "active"
+  }
+]

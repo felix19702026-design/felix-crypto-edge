@@ -20,9 +20,10 @@
     <h1 style="text-align: center; margin-bottom: 30px;">Choose your plan</h1>
     
     <div class="pricing-grid" style="grid-template-columns: 1fr; gap: 15px; margin-bottom: 30px;">
-      <article class="price-card" style="cursor: pointer;" onclick="selectPlan('price_1TVjrWPwnbaFoOqOZwRtFuoY', '$5 trial')">
+      <article class="price-card" style="cursor: pointer;" onclick="selectPlan('free', 'Free Trial')">
+        <div class="badge" style="background: linear-gradient(135deg, #22c55e, #16a34a);">Free with code</div>
         <h3>1 Day Trial</h3>
-        <div class="price">$5<span>/day</span></div>
+        <div class="price">$0<span>/24 hours</span></div>
         <ul>
           <li>Full access for 24 hours</li>
           <li>TradingView indicator</li>
@@ -67,11 +68,12 @@
     <div id="checkout-section" style="display: none;">
       <div class="lead-form">
         <h3 id="selected-plan" style="text-align: center; margin-bottom: 20px;"></h3>
-        <label>Coupon code
-          <input type="text" id="coupon" placeholder="Enter code (optional)" onblur="checkCoupon()">
-        </label>
-        <p id="coupon-status" style="color: var(--accent); font-size: 14px; margin: -10px 0 10px;"></p>
-        <button class="button primary" onclick="checkout()" style="width: 100%;">Continue to payment</button>
+        <label>Email<input type="email" id="email" placeholder="you@example.com" required></label>
+        <div id="coupon-section" style="display: none;">
+          <label>Coupon code<input type="text" id="coupon" placeholder="Enter code" value="THISISMYTEST128903" readonly></label>
+        </div>
+        <p id="status" style="color: var(--accent); font-size: 14px; margin: -10px 0 10px;"></p>
+        <button class="button primary" onclick="checkout()" style="width: 100%;">Continue</button>
       </div>
     </div>
     
@@ -88,47 +90,52 @@
       selectedPlanName = name;
       document.getElementById('selected-plan').textContent = 'Selected: ' + name;
       document.getElementById('checkout-section').style.display = 'block';
+      document.getElementById('coupon-section').style.display = priceId === 'free' ? 'block' : 'none';
       window.scrollTo(0, document.getElementById('checkout-section').offsetTop - 100);
     }
 
-    async function checkCoupon() {
-      const code = document.getElementById('coupon').value.trim();
-      if (!code) {
-        document.getElementById('coupon-status').textContent = '';
+    async function checkout() {
+      const email = document.getElementById('email').value.trim();
+      if (!email) {
+        document.getElementById('status').textContent = 'Please enter your email';
         return;
       }
-      
-      try {
-        const res = await fetch(`${API_URL}/api/check-coupon/${code}`);
-        const data = await res.json();
-        if (data.valid) {
-          document.getElementById('coupon-status').textContent = `✓ ${data.percent_off}% off applied!`;
-        } else {
-          document.getElementById('coupon-status').textContent = '✗ Invalid code';
-        }
-      } catch (e) {
-        document.getElementById('coupon-status').textContent = '';
-      }
-    }
 
-    async function checkout() {
-      const coupon = document.getElementById('coupon').value.trim();
-      
-      try {
-        const res = await fetch(`${API_URL}/api/create-checkout`, {
-          method: 'POST',
-          headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({ priceId: selectedPrice, coupon: coupon || undefined })
-        });
-        
-        const data = await res.json();
-        if (data.url) {
-          window.location.href = data.url;
-        } else {
-          alert('Error: ' + (data.error || 'Unknown error'));
+      if (selectedPrice === 'free') {
+        // Free activation
+        try {
+          const res = await fetch(`${API_URL}/api/activate-free`, {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ email, coupon: 'THISISMYTEST128903' })
+          });
+          const data = await res.json();
+          if (data.success) {
+            document.getElementById('status').textContent = '✓ Activated! Check your email.';
+            setTimeout(() => window.location.href = 'success.html', 2000);
+          } else {
+            document.getElementById('status').textContent = '✗ ' + data.error;
+          }
+        } catch (e) {
+          document.getElementById('status').textContent = 'Connection error';
         }
-      } catch (e) {
-        alert('Connection error. Please try again.');
+      } else {
+        // Stripe payment
+        try {
+          const res = await fetch(`${API_URL}/api/create-checkout`, {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ priceId: selectedPrice, email })
+          });
+          const data = await res.json();
+          if (data.url) {
+            window.location.href = data.url;
+          } else {
+            document.getElementById('status').textContent = 'Error: ' + (data.error || 'Unknown');
+          }
+        } catch (e) {
+          document.getElementById('status').textContent = 'Connection error';
+        }
       }
     }
   </script>

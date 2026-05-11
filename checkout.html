@@ -7,7 +7,6 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="styles.css" />
-  <script src="https://js.stripe.com/v3/"></script>
 </head>
 <body>
   <header class="site-header">
@@ -21,7 +20,7 @@
     <h1 style="text-align: center; margin-bottom: 30px;">Choose your plan</h1>
     
     <div class="pricing-grid" style="grid-template-columns: 1fr; gap: 15px; margin-bottom: 30px;">
-      <article class="price-card" style="cursor: pointer;" onclick="selectPlan('price_1TVjrWPwnbaFoOqOZwRtFuoY')">
+      <article class="price-card" style="cursor: pointer;" onclick="selectPlan('price_1TVjrWPwnbaFoOqOZwRtFuoY', '$5 trial')">
         <h3>1 Day Trial</h3>
         <div class="price">$5<span>/day</span></div>
         <ul>
@@ -32,7 +31,7 @@
         </ul>
       </article>
       
-      <article class="price-card" style="cursor: pointer;" onclick="selectPlan('price_1TVjriPwnbaFoOqOZjwtiXiG')">
+      <article class="price-card" style="cursor: pointer;" onclick="selectPlan('price_1TVjriPwnbaFoOqOZjwtiXiG', '$25/week')">
         <h3>Weekly</h3>
         <div class="price">$25<span>/week</span></div>
         <ul>
@@ -42,7 +41,7 @@
         </ul>
       </article>
       
-      <article class="price-card featured" style="cursor: pointer;" onclick="selectPlan('price_1TVjriPwnbaFoOqOiIY2Ju3J')">
+      <article class="price-card featured" style="cursor: pointer;" onclick="selectPlan('price_1TVjriPwnbaFoOqOiIY2Ju3J', '$50/month')">
         <div class="badge">Most popular</div>
         <h3>Monthly</h3>
         <div class="price">$50<span>/month</span></div>
@@ -53,7 +52,7 @@
         </ul>
       </article>
       
-      <article class="price-card" style="cursor: pointer;" onclick="selectPlan('price_1TVjrjPwnbaFoOqOrUG8tCGk')">
+      <article class="price-card" style="cursor: pointer;" onclick="selectPlan('price_1TVjrjPwnbaFoOqOrUG8tCGk', '$220/year')">
         <div class="badge save">Save 60%</div>
         <h3>Yearly</h3>
         <div class="price">$220<span>/year</span></div>
@@ -67,9 +66,11 @@
 
     <div id="checkout-section" style="display: none;">
       <div class="lead-form">
+        <h3 id="selected-plan" style="text-align: center; margin-bottom: 20px;"></h3>
         <label>Coupon code
-          <input type="text" id="coupon" placeholder="Enter code (optional)">
+          <input type="text" id="coupon" placeholder="Enter code (optional)" onblur="checkCoupon()">
         </label>
+        <p id="coupon-status" style="color: var(--accent); font-size: 14px; margin: -10px 0 10px;"></p>
         <button class="button primary" onclick="checkout()" style="width: 100%;">Continue to payment</button>
       </div>
     </div>
@@ -78,33 +79,57 @@
   </main>
 
   <script>
-    const stripe = Stripe('pk_test_51TVjhpPwnbaFoOqO6qvudegFGcRKKA2QuQAucDsKf58KvPTlsgr1jkJBdB71869GAGmp4tUstzLuda9DDzv4EfQW00yBgJk8jc');
+    const API_URL = 'http://92.112.180.196:3000';
     let selectedPrice = null;
+    let selectedPlanName = '';
 
-    function selectPlan(priceId) {
+    function selectPlan(priceId, name) {
       selectedPrice = priceId;
+      selectedPlanName = name;
+      document.getElementById('selected-plan').textContent = 'Selected: ' + name;
       document.getElementById('checkout-section').style.display = 'block';
       window.scrollTo(0, document.getElementById('checkout-section').offsetTop - 100);
+    }
+
+    async function checkCoupon() {
+      const code = document.getElementById('coupon').value.trim();
+      if (!code) {
+        document.getElementById('coupon-status').textContent = '';
+        return;
+      }
+      
+      try {
+        const res = await fetch(`${API_URL}/api/check-coupon/${code}`);
+        const data = await res.json();
+        if (data.valid) {
+          document.getElementById('coupon-status').textContent = `✓ ${data.percent_off}% off applied!`;
+        } else {
+          document.getElementById('coupon-status').textContent = '✗ Invalid code';
+        }
+      } catch (e) {
+        document.getElementById('coupon-status').textContent = '';
+      }
     }
 
     async function checkout() {
       const coupon = document.getElementById('coupon').value.trim();
       
-      const body = {
-        priceId: selectedPrice,
-        coupon: coupon || undefined
-      };
-
-      // For now, redirect to Stripe Checkout
-      // In production, this would call your backend
-      const priceData = {
-        'price_1TVjrWPwnbaFoOqOZwRtFuoY': { amount: 500, name: '1 Day Trial' },
-        'price_1TVjriPwnbaFoOqOZjwtiXiG': { amount: 2500, name: 'Weekly' },
-        'price_1TVjriPwnbaFoOqOiIY2Ju3J': { amount: 5000, name: 'Monthly' },
-        'price_1TVjrjPwnbaFoOqOrUG8tCGk': { amount: 22000, name: 'Yearly' }
-      };
-
-      alert('Stripe Checkout integration needed.\n\nSelected: ' + priceData[selectedPrice].name + '\nCoupon: ' + (coupon || 'None') + '\n\nFor testing, use coupon: THISISMYTEST128903');
+      try {
+        const res = await fetch(`${API_URL}/api/create-checkout`, {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ priceId: selectedPrice, coupon: coupon || undefined })
+        });
+        
+        const data = await res.json();
+        if (data.url) {
+          window.location.href = data.url;
+        } else {
+          alert('Error: ' + (data.error || 'Unknown error'));
+        }
+      } catch (e) {
+        alert('Connection error. Please try again.');
+      }
     }
   </script>
 </body>
